@@ -81,14 +81,7 @@ var words = [
   { eng: 'Zealous', tr: 'ateşli veya coşkulu' }
 ];
 
-function yeniOyunaGec() {
-  // Yeni oyuna geçmek için bir URL belirtin
-  var yeniOyunURL = "http://127.0.0.1:5500/newgame/kelimeleritamamlayal%C4%B1m/index.html";
 
-  // Kullanıcıyı yeni oyunun URL'sine yönlendirin
-  window.location.href = yeniOyunURL;
-}
-  
   var currentQuestion = 0;
   var score = 0;
   

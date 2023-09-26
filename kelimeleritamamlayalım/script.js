@@ -109,11 +109,7 @@ var cümleler = [
     "He's a great teacher.",
 ];
 
-function eskioyunadön() {
-    var eskioyunURL = "http://127.0.0.1:5500/newgame/wordgame/index.html";
-  
-    window.location.href = eskioyunURL;
-  }
+
     
 var randomIndex = Math.floor(Math.random() * cümleler.length);
 var verilenCumle = cümleler[randomIndex];
