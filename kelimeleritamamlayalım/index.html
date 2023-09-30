@@ -2,15 +2,16 @@
 <html>
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Word Game</title>
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" media="(max-width:568px)" href="css/mobil.css">
-
 </head>
 
 <body>
     <div class="container">
-        <h1>🧩Kelime Oyunu🧩</h1>
+        <h1>🧩 Kelime Oyunu 🧩</h1>
         <div id="oyunAlanı">
             <p id="verilenCumle">Hadi bu kelimeleri birleştirelim</p>
 
@@ -18,14 +19,12 @@
             <ul id="kelimelerListesi"></ul>
             <input type="text" id="cevapInput" placeholder="Cevabınızı girin">
             <button onclick="karistir()">Cümleyi Karıştır</button>
-            <button onclick="kontrolEt()">Cevabı Kontrol Et</button>
-            <button id="eskioyunadön" onclick="window.location.href='/newgame/wordgame/index.html'">Bir Önceki Oyuna
-                Dön</button>         
+            <button onclick="kontrolEt()">Cevap Kontrol Et</button>
+            <button id="eskioyunadön" onclick="window.location.href='/newgame/wordgame/index.html'">Bir önceki oyun</button>
 
             <p id="sonuc"></p>
         </div>
         <div class="succeed" id="succeedMessage"></div>
-
     </div>
 
     <script src="script.js"></script>
