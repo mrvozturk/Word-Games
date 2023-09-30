@@ -9,9 +9,9 @@
     li {
 
         width: calc(50% - 10px);
-        /* İki eleman yan yana sığsın, 10px kenar boşluğu */
+
         margin-bottom: 10px;
-        /* Elemanlar arasına boşluk bırak */
+
     }
 }
 
@@ -20,31 +20,31 @@
     #cevapInput {
         justify-content: center;
         width: 98%;
-        /* Örnek olarak genişliği %80 olarak ayarladım, siz ihtiyaca göre ayarlayabilirsiniz */
+
         margin: 10px auto;
-        /* Merkezlemek için margin kullanabilirsiniz */
+
     }
 
     #sonucCumle {
         font-size: 20px;
-        /* Örnek olarak font boyutunu küçülttüm, ihtiyaca göre ayarlayabilirsiniz */
+
     }
 }
 
 button {
     text-align: center;
     margin: 25px auto;
-    /* Dikey hizalama için auto kullanarak merkezle */
+
     padding: 10px;
     width: 40%;
     margin-bottom: -15px;
     border-radius: 10px;
     display: block;
-    /* Gerekirse, blok özelliği ekleyerek genişlik ayarlarını düzenle */
+
 }
 
 h1 {
     text-align: center;
     margin-top: 50px;
-    /* Ekstra margin sıfırlandı, gerekirse isteğe bağlı olarak ayarlanabilir */
+
 }

@@ -6,7 +6,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    /* Adjust as needed */
+
 }
 
 p {
@@ -69,7 +69,7 @@ button {
     }
 
     button {
-        /* Medya sorgusu içindeki stil tanımlamalarını kaldır */
+     
         width: 22%;
         padding: 12px;
         margin: 20px auto;
