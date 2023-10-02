@@ -1,26 +1,48 @@
 .container {
     background: white;
-    padding: 10px;
+    padding: 0;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    max-width: 85%;
+    max-width: 90%;
+    max-height: 900px;
     width: 100%;
     margin: 0 auto;
 }
 
 .option {
     width: 100%;
-    max-width: 300px;
+    max-width: 250px;
     height: auto;
     margin: 5px;
     border-radius: 10px;
     border: 5px solid grey;
-    box-sizing: border-box;
-    padding: 20px 30px;
+    padding: 20px 15px;
     text-align: center;
     cursor: pointer;
-    background: #ddd;
-    color: black;
-    transition: background-color 0.3s ease;
+}
+
+h1 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+button {
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 200px;
+}
+
+#options {
+    gap: 2px;
+}
+
+#result {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#question {
+    margin-bottom: 5px;
+    font-size: 20px;
 }

@@ -9,6 +9,11 @@ body {
 
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 p {
     text-align: center;
     font-weight: 600;
@@ -69,7 +74,7 @@ button {
     }
 
     button {
-     
+
         width: 22%;
         padding: 12px;
         margin: 20px auto;
