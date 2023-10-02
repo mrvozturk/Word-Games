@@ -9,7 +9,8 @@
     li {
 
         width: calc(50% - 10px);
-
+        border: 4px solid #fff;
+        background: #ddd;
         margin-bottom: 10px;
 
     }
