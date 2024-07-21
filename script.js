@@ -1,6 +1,6 @@
 var words = [
-  { eng: 'about', tr: 'hemen hemen, yaklaşık, aşağı yukarı' },
-  { eng: 'above', tr: 'üzerine, yukarısında, yukarıda' },
+  { eng: 'about', tr: 'hemen hemen, yaklaşık, aşağı yukarı,hakkında' },
+  { eng: 'above', tr: 'üzerine, yukarısında, yukarıda,üstünde' },
   { eng: 'across', tr: 'karşıya, (deniz/okyanus) aşırı, karşı karşıya' },
   { eng: 'action', tr: 'çalışma, davranış, aksiyon' },
   { eng: 'activity', tr: 'etkinlik, faaliyet, meşguliyet' },
