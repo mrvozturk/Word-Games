@@ -229,7 +229,7 @@ export default function Home() {
           color: 'black'
         }}
       ></p>
-      <button
+      {/* <button
         style={{
           marginTop: '10px',
           backgroundColor: '#FFC300',
@@ -252,7 +252,7 @@ export default function Home() {
         >
           Word Combination Game
         </a>
-      </button>
+      </button> */}
     </div>
   );
 }
