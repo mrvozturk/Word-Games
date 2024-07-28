@@ -3,6 +3,8 @@
 import { useEffect, useMemo, useState } from 'react';
 import Words from '@/mock/_words.json';
 
+import styles from './page.module.css';
+
 type Option = {
   text: string;
   isCorrect: boolean;
@@ -112,18 +114,7 @@ export default function Home() {
   }
 
   return (
-    <div
-      style={{
-        backgroundColor: 'white',
-        padding: '140px',
-        borderRadius: '10px',
-        boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)',
-        textAlign: 'center',
-        maxWidth: '500px',
-        width: '100%',
-        height: '100%'
-      }}
-    >
+    <div className={styles.container}>
       <h1
         style={{
           color: '#333',
