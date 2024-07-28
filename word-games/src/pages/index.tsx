@@ -4,15 +4,26 @@ import Words from '@/mock/_words.json';
 type Option = {
   text: string;
   isCorrect: boolean;
+  id: number | null;
+};
+
+const defaultOption: Option = {
+  text: '',
+  isCorrect: false,
+  id: null
 };
 
 export default function Home() {
-  const [questionIndex, setQuestionIndex] = useState(0);
-  const [isClient, setIsClient] = useState(false);
-  const [selectItem, setSelectItem] = useState({} as Option);
+  const [questionIndex, setQuestionIndex] = useState<number>(0);
+  const [isClient, setIsClient] = useState<boolean>(false);
+  const [selectItem, setSelectItem] = useState<Option>(defaultOption);
 
   useEffect(() => {
     setIsClient(true);
+
+    return () => {
+      setIsClient(false);
+    };
   }, []);
 
   const getRandomInt = (min: number, max: number) => {
@@ -41,20 +52,20 @@ export default function Home() {
   };
 
   const wordData = useMemo(() => {
-    console.log('Words[questionIndex]', Words[questionIndex]);
     const question = Words[questionIndex].eng;
     const successOption = {
       text: Words[questionIndex].tr,
       isCorrect: true
     };
-    const options = [successOption];
+    const options = [{ ...successOption, id: 0 }];
 
     while (options.length < 4) {
       const randomIndex = getRandomInt(0, Words.length);
       if (randomIndex !== questionIndex) {
         options.push({
           text: Words[randomIndex].tr,
-          isCorrect: false
+          isCorrect: false,
+          id: options.length
         });
       }
     }
@@ -65,15 +76,33 @@ export default function Home() {
   }, [questionIndex]);
 
   const nextQuestion = () => {
+    setSelectItem(defaultOption);
+    const correctOption = wordData.options.find(option => option.isCorrect)?.id;
+
+    document
+      .getElementById(correctOption?.toString() ?? '')
+      ?.style.setProperty('background-color', '#ddd');
+
     setQuestionIndex(Math.floor(Math.random() * Words.length));
   };
 
   const checkAnswer = () => {
     if (selectItem.isCorrect) {
-      nextQuestion();
-    }
+      document
+        .getElementById(selectItem.id?.toString() ?? '')
+        ?.style.setProperty('background-color', 'green');
+    } else {
+      const correctOption = wordData.options.find(option => option.isCorrect)
+        ?.id;
 
-    setSelectItem({} as Option);
+      document
+        .getElementById(correctOption?.toString() ?? '')
+        ?.style.setProperty('background-color', 'green');
+
+      document
+        .getElementById(selectItem.id?.toString() ?? '')
+        ?.style.setProperty('background-color', 'red');
+    }
   };
 
   if (!isClient) {
@@ -123,9 +152,15 @@ export default function Home() {
       >
         {wordData.options.map((option, index) => (
           <button
-            onClick={() => setSelectItem(option)}
-            key={index}
-            id='options'
+            onClick={() => {
+              if (selectItem.text === option.text) {
+                setSelectItem(defaultOption);
+              } else {
+                setSelectItem(option);
+              }
+            }}
+            key={option.id}
+            id={option.id?.toString()}
             style={{
               width: '180px',
               height: '150px',
@@ -162,6 +197,7 @@ export default function Home() {
       >
         <button
           onClick={checkAnswer}
+          disabled={!selectItem.text}
           style={{
             marginTop: '10px',
             backgroundColor: '#FFC300',
@@ -191,7 +227,15 @@ export default function Home() {
           Sonraki Soru
         </button>
       </div>
-      <div id='result'></div>
+      <p
+        id='result'
+        style={{
+          // text-decoration: none;
+          // color: black;
+          textDecoration: 'none',
+          color: 'black'
+        }}
+      ></p>
       <button
         style={{
           marginTop: '10px',
