@@ -4,6 +4,8 @@ import { useEffect, useMemo, useState } from 'react';
 import Words from '@/mock/_words.json';
 
 import styles from './page.module.css';
+import Link from 'next/link';
+import shuffle from '@/utils/shuffle';
 
 type Option = {
   text: string;
@@ -36,25 +38,6 @@ export default function Home() {
     return Math.floor(Math.random() * (maxFloored - minCeiled) + minCeiled); // The maximum is exclusive and the minimum is inclusive
   };
 
-  const shuffle: (array: Option[]) => Option[] = array => {
-    let currentIndex = array.length;
-
-    // While there remain elements to shuffle...
-    while (currentIndex != 0) {
-      // Pick a remaining element...
-      let randomIndex = Math.floor(Math.random() * currentIndex);
-      currentIndex--;
-
-      // And swap it with the current element.
-      [array[currentIndex], array[randomIndex]] = [
-        array[randomIndex],
-        array[currentIndex]
-      ];
-    }
-
-    return array;
-  };
-
   const wordData = useMemo(() => {
     const question = Words[questionIndex].eng;
     const successOption = {
@@ -81,7 +64,9 @@ export default function Home() {
 
   const nextQuestion = () => {
     setSelectItem(defaultOption);
-    const correctOption = wordData.options.find(option => option.isCorrect)?.id;
+    const correctOption = wordData.options.find(
+      (option: Option) => option.isCorrect
+    )?.id;
 
     document
       .getElementById(correctOption?.toString() ?? '')
@@ -96,8 +81,9 @@ export default function Home() {
         .getElementById(selectItem.id?.toString() ?? '')
         ?.style.setProperty('background-color', 'green');
     } else {
-      const correctOption = wordData.options.find(option => option.isCorrect)
-        ?.id;
+      const correctOption = wordData.options.find(
+        (option: Option) => option.isCorrect
+      )?.id;
 
       document
         .getElementById(correctOption?.toString() ?? '')
@@ -143,7 +129,7 @@ export default function Home() {
           grid: 'auto / 180px 180px 180px 180px'
         }}
       >
-        {wordData.options.map((option, index) => (
+        {wordData.options.map((option: Option, index: number) => (
           <button
             onClick={() => {
               if (selectItem.text === option.text) {
@@ -220,16 +206,7 @@ export default function Home() {
           Sonraki Soru
         </button>
       </div>
-      <p
-        id='result'
-        style={{
-          // text-decoration: none;
-          // color: black;
-          textDecoration: 'none',
-          color: 'black'
-        }}
-      ></p>
-      {/* <button
+      <button
         style={{
           marginTop: '10px',
           backgroundColor: '#FFC300',
@@ -241,18 +218,16 @@ export default function Home() {
           transition: 'background-color 0.3s ease'
         }}
       >
-        <a
+        <Link
           style={{
-            // text-decoration: none;
-            // color: black;
             textDecoration: 'none',
             color: 'black'
           }}
-          href='/games/wordCombination/index.html'
+          href='/wordCombination'
         >
           Word Combination Game
-        </a>
-      </button> */}
+        </Link>
+      </button>
     </div>
   );
 }
