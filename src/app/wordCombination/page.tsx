@@ -9,6 +9,7 @@ import shuffle from '@/utils/shuffle';
 const WordCombination = () => {
   const [words, setWords] = useState<string[]>([]);
   const [sentenceIndex, setSentenceIndex] = useState<number>(0);
+  const [inputValue, setInputValue] = useState<string>('');
 
   const startGame = () => {
     const index = Math.floor(Math.random() * Sentences.length);
@@ -19,33 +20,46 @@ const WordCombination = () => {
 
     setSentenceIndex(index);
     setWords(shuffledWords);
+    setInputValue('');
   };
 
   const checkAnswer = () => {
-    const input = document.getElementById('answer') as HTMLInputElement;
-    const answer = input.value.trim().toLowerCase();
+    const answer = inputValue.trim().toLowerCase();
 
     const sentence = Sentences[sentenceIndex];
     const words = sentence.split(' ');
 
-    console.log('words', words);
-
     const correctAnswer = words.join(' ').toLowerCase();
 
     if (answer === correctAnswer) {
-      alert('Tebrikler, doğru cevap!');
+      alert('Tebrikler, doğru cevap!' + ' Cevabınız: ' + inputValue);
     } else {
-      alert('Üzgünüm, yanlış cevap! Doğru cevap: ' + correctAnswer);
+      alert(
+        'Üzgünüm, yanlış cevap! Doğru cevap: ' +
+          correctAnswer +
+          '.' +
+          ' Cevabınız: ' +
+          inputValue
+      );
     }
   };
 
   const nextQuestion = () => {
-    const input = document.getElementById('answer') as HTMLInputElement;
-    input.value = '';
-
+    setInputValue('');
     startGame();
   };
 
+  const handleChange = e => {
+    // Eğer burada istenmeyen bir input girildiğinde işlemi engellemek için kullanabilirsiniz.
+    // Örneğin, burada sadece boş bırakabilir veya başka bir işlev ekleyebilirsiniz.
+    if (
+      e.inputType !== 'deleteContentBackward' &&
+      e.inputType !== 'deleteContentForward'
+    ) {
+      e.target.value = ''; // Kullanıcının yazmasını engellemek için input'u temizliyoruz.
+    }
+  };
+  console.log('sentenceIndex', sentenceIndex);
   return (
     <div
       style={{
@@ -85,10 +99,7 @@ const WordCombination = () => {
           {words.map((word, index) => (
             <button
               onClick={() => {
-                const input = document.getElementById(
-                  'answer'
-                ) as HTMLInputElement;
-                input.value += `${word} `;
+                setInputValue(inputValue + `${word} `);
 
                 const newWords = words.filter((_, i) => i !== index);
                 setWords(newWords);
@@ -114,6 +125,8 @@ const WordCombination = () => {
           type='text'
           id='answer'
           placeholder='Cevabınızı girin'
+          value={inputValue}
+          onChange={handleChange}
           style={{
             width: '100%',
             textAlign: 'center',
@@ -128,6 +141,33 @@ const WordCombination = () => {
             fontSize: '16px',
             color: '#000'
           }}
+          onKeyDown={e => {
+            const key = e.key || e.keyCode || e.which;
+
+            // Eğer key "Unidentified" ise, keyCode veya which kullanılır
+            const keyCode = e.keyCode || e.which;
+
+            // Backspace veya Delete tuşuna basıldığında işlem yapılacak
+            if (
+              key === 'Backspace' ||
+              key === 'Delete' ||
+              keyCode === 8 ||
+              keyCode === 46 ||
+              keyCode === 229
+            ) {
+              // inputValue değerini boşluklarla bölüp filtreleme yapıyoruz
+              const value = inputValue.split(' ').filter(Boolean);
+
+              // Eğer inputValue'de hala kelime varsa
+              if (value.length !== 0) {
+                setInputValue(''); // input'u temizle
+
+                const suffeledWords = shuffle([...words, ...value]);
+
+                setWords(suffeledWords); // kelimeleri karıştır
+              }
+            }
+          }}
         />
       </div>
       <div
@@ -138,23 +178,25 @@ const WordCombination = () => {
           gap: '10px'
         }}
       >
-        <button
-          onClick={startGame}
-          style={{
-            textDecoration: 'none',
-            alignSelf: 'center',
-            color: '#000',
-            backgroundColor: '#f1f1f1',
-            border: 'none',
-            padding: '10px 20px',
-            cursor: 'pointer',
-            borderRadius: '15px',
-            fontSize: '13px',
-            height: '75px'
-          }}
-        >
-          Oyuna Başla
-        </button>
+        {!sentenceIndex && (
+          <button
+            onClick={startGame}
+            style={{
+              textDecoration: 'none',
+              alignSelf: 'center',
+              color: '#000',
+              backgroundColor: '#f1f1f1',
+              border: 'none',
+              padding: '10px 20px',
+              cursor: 'pointer',
+              borderRadius: '15px',
+              fontSize: '13px',
+              height: '75px'
+            }}
+          >
+            Oyuna Başla
+          </button>
+        )}
         <button
           onClick={checkAnswer}
           style={{
