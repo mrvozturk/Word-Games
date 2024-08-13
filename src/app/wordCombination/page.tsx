@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { ChangeEvent, useState } from 'react';
 import Sentences from '@/mock/sentence.json';
 
 import Link from 'next/link';
@@ -49,17 +49,18 @@ const WordCombination = () => {
     startGame();
   };
 
-  const handleChange = e => {
+  const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
+    const inputEvent = e.nativeEvent as InputEvent;
+
     // Eğer burada istenmeyen bir input girildiğinde işlemi engellemek için kullanabilirsiniz.
-    // Örneğin, burada sadece boş bırakabilir veya başka bir işlev ekleyebilirsiniz.
     if (
-      e.inputType !== 'deleteContentBackward' &&
-      e.inputType !== 'deleteContentForward'
+      inputEvent.inputType !== 'deleteContentBackward' &&
+      inputEvent.inputType !== 'deleteContentForward'
     ) {
       e.target.value = ''; // Kullanıcının yazmasını engellemek için input'u temizliyoruz.
     }
   };
-  console.log('sentenceIndex', sentenceIndex);
+
   return (
     <div
       style={{
