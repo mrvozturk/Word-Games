@@ -53,7 +53,7 @@
   },
   {
     "eng": "afternoon",
-    "tr": "öğleden sonra, bir şeyin orta ve son bölümü, son kısım"
+    "tr": "öğleden sonra, bir şeyin orta ve son bölümü"
   },
   {
     "eng": "again",
@@ -266,7 +266,7 @@
   },
   {
     "eng": "beer",
-    "tr": "bira, arpasuyu, ingiltere'de yerleşim yeri"
+    "tr": "bira, arpasuyu"
   },
   {
     "eng": "before",
@@ -306,7 +306,7 @@
   },
   {
     "eng": "bicycle",
-    "tr": "bisiklet, bisiklet kullanarak gitmek, bisikletle gezmek"
+    "tr": "bisiklet, bisiklet kullanarak gitmek"
   },
   {
     "eng": "big",
@@ -454,7 +454,7 @@
   },
   {
     "eng": "bye",
-    "tr": "ast, çiftli yarışan çiftlerden biri, hoşçakal"
+    "tr": "ast, hoşçakal"
   },
   {
     "eng": "cafe",
@@ -514,7 +514,7 @@
   },
   {
     "eng": "cent",
-    "tr": "sent, metelik, sent amerikan dolarının yüzde biri"
+    "tr": "sent, metelik"
   },
   {
     "eng": "centre",
@@ -558,7 +558,7 @@
   },
   {
     "eng": "chocolate",
-    "tr": "çikolata, çikolatalı şekerleme, çikolatadan yapılmış"
+    "tr": "çikolata, çikolatalı şekerleme"
   },
   {
     "eng": "choose",
@@ -702,7 +702,7 @@
   },
   {
     "eng": "culture",
-    "tr": "kültür, zevk ve eleştirme yeteneklerinin öğrenim ve yaşantılar yoluyla geliştirilmiş olan biçimi, terbiye"
+    "tr": "kültür, zevk ve eleştirme , terbiye"
   },
   {
     "eng": "cup",
@@ -1510,7 +1510,7 @@
   },
   {
     "eng": "I",
-    "tr": "ben, İngiliz alfabesinin dokuzuncu harfi, roma rakamları dizisinde 1 sayısı"
+    "tr": "ben"
   },
   {
     "eng": "Internet",
@@ -1786,11 +1786,11 @@
   },
   {
     "eng": "machine",
-    "tr": "makine, makine ile yapmak veya şekil vermek, makine ile yapmak"
+    "tr": "makine, makine ile yapmak veya şekil vermek"
   },
   {
     "eng": "magazine",
-    "tr": "fişek haznesi, dergi, mecmua"
+    "tr": "fişek haznesi, dergi"
   },
   {
     "eng": "main",
@@ -1814,7 +1814,7 @@
   },
   {
     "eng": "March",
-    "tr": "yürüyüş yapmak (topluca), yürüyüş (topluca), mart ayı"
+    "tr": "yürüyüş yapmak , yürüyüş, mart ayı"
   },
   {
     "eng": "market",
@@ -2114,7 +2114,7 @@
   },
   {
     "eng": "o'clock",
-    "tr": "saat, saate göre, saat (tam saatlerle kullanılır)"
+    "tr": "saat, saate göre, saat "
   },
   {
     "eng": "October",
@@ -2218,7 +2218,7 @@
   },
   {
     "eng": "page",
-    "tr": "sayfa, otelde birini komiyle çağırttırmak, numaralamak"
+    "tr": "sayfa, numaralamak"
   },
   {
     "eng": "paint",
@@ -2502,7 +2502,7 @@
   },
   {
     "eng": "read",
-    "tr": "okumak, read (sounds like \"red\") - read (sounds like \"red\"), çözmek"
+    "tr": "okumak,"
   },
   {
     "eng": "reader",
@@ -2582,7 +2582,7 @@
   },
   {
     "eng": "road",
-    "tr": "yol, uyulan ilke, bir amaca ulaşmak için başvurulması gereken yöntem"
+    "tr": "yol, uyulan ilke"
   },
   {
     "eng": "room",
@@ -3023,7 +3023,7 @@
   },
   {
     "eng": "teenager",
-    "tr": "on üç ile on dokuz yaşlar arasındaki kimse, delikanlı, yeniyetme"
+    "tr": "on üç ile on dokuz yaşlar arasındaki kimse, delikanlı"
   },
   {
     "eng": "telephone",
@@ -3075,7 +3075,7 @@
   },
   {
     "eng": "the",
-    "tr": "belirli durumlarda isimden önce kullanılır, belli bir obje/kişi/yeri nitelemek için kullanılır"
+    "tr": "belirli durumlarda isimden önce kullanılır"
   },
   {
     "eng": "theatre",
@@ -3343,7 +3343,7 @@
   },
   {
     "eng": "village",
-    "tr": "köy, köy, şehir ve kasabalardan küçük ama kalıcı yerleşim birimi"
+    "tr": "köy"
   },
   {
     "eng": "visit",

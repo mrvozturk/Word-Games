@@ -17,7 +17,7 @@
 .title {
   color: #333;
   font-size: 35px;
-  margin-bottom: 20px;
+  margin-bottom: 0;
 }
 
 .question {
@@ -41,12 +41,16 @@
   border-radius: 10px;
   border: 5px solid grey;
   box-sizing: border-box;
-  padding: 20px 30px;
+  padding: 10px;
   text-align: center;
   cursor: pointer;
   background-color: #ddd;
   color: black;
   transition: background-color 0.3s ease;
+  word-wrap: break-word;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .optionButtonSelected {
@@ -62,17 +66,7 @@
   gap: 10px;
 }
 
-.actionButton {
-  margin-top: 10px;
-  background-color: #ffc300;
-  border: none;
-  padding: 10px 20px;
-  cursor: pointer;
-  font-weight: bold;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
-}
-
+.actionButton,
 .linkButton {
   margin-top: 10px;
   background-color: #ffc300;
@@ -89,8 +83,18 @@
   color: black;
 }
 
-/* media phone */
+@media (min-width: 569px) and (max-width: 768px) {
+  .optionButton {
+    width: 160px;
+    height: 130px;
+    font-size: 16px;
+    padding: 8px;
+  }
 
+  .buttonContainer {
+    grid: auto / 160px 160px 160px;
+  }
+}
 @media (max-width: 568px) {
   .container {
     background: white;
@@ -98,7 +102,18 @@
     border-radius: 10px;
     width: 90%;
     height: max-content;
-    margin: 10px 0px 10px 0px;
+    margin: 10px 0px;
     padding-bottom: 30px;
+  }
+
+  .optionButton {
+    width: 140px;
+    height: 120px;
+    font-size: 14px;
+    padding: 5px;
+  }
+
+  .buttonContainer {
+    grid: auto / 140px 140px;
   }
 }
