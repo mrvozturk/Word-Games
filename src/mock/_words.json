@@ -1,0 +1,3580 @@
+[
+  {
+    "eng": "about",
+    "tr": "hemen hemen, yaklaşık, aşağı yukarı,hakkında"
+  },
+  {
+    "eng": "above",
+    "tr": "üzerine, yukarısında, yukarıda,üstünde"
+  },
+  {
+    "eng": "across",
+    "tr": "karşıya, (deniz/okyanus) aşırı, karşı karşıya"
+  },
+  {
+    "eng": "action",
+    "tr": "çalışma, davranış, aksiyon"
+  },
+  {
+    "eng": "activity",
+    "tr": "etkinlik, faaliyet, meşguliyet"
+  },
+  {
+    "eng": "actor",
+    "tr": "oyuncu, erkek oyuncu, artist"
+  },
+  {
+    "eng": "actress",
+    "tr": "oyuncu, artist, aktris"
+  },
+  {
+    "eng": "add",
+    "tr": "toplamak, eklemek, ilave etmek"
+  },
+  {
+    "eng": "address",
+    "tr": "hitap etmek, söylev, adres"
+  },
+  {
+    "eng": "adult",
+    "tr": "yetişkin, er kişi, yetişkin kişi"
+  },
+  {
+    "eng": "advice",
+    "tr": "nasihat, tavsiye, öğüt"
+  },
+  {
+    "eng": "afraid",
+    "tr": "korkmuş, korkan, ürkmüş"
+  },
+  {
+    "eng": "after",
+    "tr": "sonra, öğleden sonra, sonra gelen"
+  },
+  {
+    "eng": "afternoon",
+    "tr": "öğleden sonra, bir şeyin orta ve son bölümü, son kısım"
+  },
+  {
+    "eng": "again",
+    "tr": "bir daha, daha, tekrar"
+  },
+  {
+    "eng": "age",
+    "tr": "yaş, çağ, devir"
+  },
+  {
+    "eng": "ago",
+    "tr": "evvel, önce"
+  },
+  {
+    "eng": "agree",
+    "tr": "aynı fikirde olmak, anlaşmak, razı olmak"
+  },
+  {
+    "eng": "air",
+    "tr": "havalandırmak, yayına girmek, hava"
+  },
+  {
+    "eng": "airport",
+    "tr": "havalimanı, havaalanı"
+  },
+  {
+    "eng": "all",
+    "tr": "tüm, bütün, hepsi"
+  },
+  {
+    "eng": "also",
+    "tr": "ayrıca, yine, da"
+  },
+  {
+    "eng": "always",
+    "tr": "hep, her zaman, daima"
+  },
+  {
+    "eng": "amazing",
+    "tr": "şaşırtıcı, şaşırtma, hayrete düşürücü"
+  },
+  {
+    "eng": "and",
+    "tr": "ile, ve, sonra"
+  },
+  {
+    "eng": "angry",
+    "tr": "kızmış, sinirli, hiddetli"
+  },
+  {
+    "eng": "animal",
+    "tr": "hayvan, hayvani"
+  },
+  {
+    "eng": "another",
+    "tr": "öbür, başka, ikinci bir"
+  },
+  {
+    "eng": "answer",
+    "tr": "yanıt vermek, cevaplamak, cevap vermek"
+  },
+  {
+    "eng": "any",
+    "tr": "lalettayin, bazı, her"
+  },
+  {
+    "eng": "anyone",
+    "tr": "hiç kimse, kimse, herhangi bir kimse"
+  },
+  {
+    "eng": "anything",
+    "tr": "hiçbir şey, her şey, bir şey"
+  },
+  {
+    "eng": "apartment",
+    "tr": "daire, apartman katı, apartman dairesi"
+  },
+  {
+    "eng": "apple",
+    "tr": "elma"
+  },
+  {
+    "eng": "April",
+    "tr": "nisan, yılın dördüncü ayı, nisan ayı"
+  },
+  {
+    "eng": "area",
+    "tr": "alan, saha, bölge"
+  },
+  {
+    "eng": "arm",
+    "tr": "kol, sarılmak, destek olmak"
+  },
+  {
+    "eng": "around",
+    "tr": "sularında, çevrede, etrafında"
+  },
+  {
+    "eng": "arrive",
+    "tr": "varmak, ulaşmak, gelip çatmak"
+  },
+  {
+    "eng": "art",
+    "tr": "sanat, beceri, maharet"
+  },
+  {
+    "eng": "article",
+    "tr": "bent, madde, (sözleşmede) madde"
+  },
+  {
+    "eng": "artist",
+    "tr": "artist, sanatkar, sanatçı"
+  },
+  {
+    "eng": "as",
+    "tr": "olarak, gibi, dahi"
+  },
+  {
+    "eng": "ask",
+    "tr": "soru sormak, istemek, çağırmak"
+  },
+  {
+    "eng": "at",
+    "tr": "üzere, nezdinde, haliyle"
+  },
+  {
+    "eng": "August",
+    "tr": "ağustos, yılın sekizinci ayı, ağustos ayı"
+  },
+  {
+    "eng": "aunt",
+    "tr": "hala, teyze, yenge"
+  },
+  {
+    "eng": "autumn",
+    "tr": "güz, sonbahar, hazan"
+  },
+  {
+    "eng": "away",
+    "tr": "uzak, uzağa, uzakta"
+  },
+
+  {
+    "eng": "baby",
+    "tr": "yavru, bebek, şımartmak"
+  },
+  {
+    "eng": "back",
+    "tr": "art, arkalık, sırt"
+  },
+  {
+    "eng": "bad",
+    "tr": "kötü, fena, bozuk"
+  },
+  {
+    "eng": "bag",
+    "tr": "poşet, torba, çanta"
+  },
+  {
+    "eng": "ball",
+    "tr": "balo, yumak, bilye"
+  },
+  {
+    "eng": "banana",
+    "tr": "muz"
+  },
+  {
+    "eng": "band",
+    "tr": "bant, bando, şerit"
+  },
+  {
+    "eng": "bank",
+    "tr": "banka, önlemek, kümelenmek"
+  },
+  {
+    "eng": "bath",
+    "tr": "yıkanmak, banyo, banyo yapmak"
+  },
+  {
+    "eng": "bathroom",
+    "tr": "tuvalet, banyo, banyo odası"
+  },
+  {
+    "eng": "be",
+    "tr": "bulunmak, olmak, var olmak"
+  },
+  {
+    "eng": "beach",
+    "tr": "sahil, kumsal, plaj"
+  },
+  {
+    "eng": "beautiful",
+    "tr": "güzel, tatlı, ahım şahım"
+  },
+  {
+    "eng": "because",
+    "tr": "çünkü, -dığı için, zira"
+  },
+  {
+    "eng": "become",
+    "tr": "haline gelmek, olmak, dönüşmek"
+  },
+  {
+    "eng": "bed",
+    "tr": "yatak, gömmek, oturtmak"
+  },
+  {
+    "eng": "bedroom",
+    "tr": "yatak odası, yatak odası şebistan"
+  },
+  {
+    "eng": "beer",
+    "tr": "bira, arpasuyu, ingiltere'de yerleşim yeri"
+  },
+  {
+    "eng": "before",
+    "tr": "evvel, önce, daha önce"
+  },
+  {
+    "eng": "begin",
+    "tr": "başlatmak, başlamak, began - begun"
+  },
+  {
+    "eng": "beginning",
+    "tr": "başlangıç, baş, ilk adım"
+  },
+  {
+    "eng": "behind",
+    "tr": "ardındaki, arkaya, geriye"
+  },
+  {
+    "eng": "believe",
+    "tr": "inanmak, kanmak"
+  },
+  {
+    "eng": "below",
+    "tr": "alttaki, aşağıdaki, altta"
+  },
+  {
+    "eng": "best",
+    "tr": "en iyi, geçmek, baskın çıkmak"
+  },
+  {
+    "eng": "better",
+    "tr": "daha iyi, iyileştirmek, ıslah etmek"
+  },
+  {
+    "eng": "between",
+    "tr": "arasında, arasına, ortada"
+  },
+  {
+    "eng": "bicycle",
+    "tr": "bisiklet, bisiklet kullanarak gitmek, bisikletle gezmek"
+  },
+  {
+    "eng": "big",
+    "tr": "iri, büyük, kapı gibi"
+  },
+  {
+    "eng": "bike",
+    "tr": "bisiklete binmek, bisiklet, bisiklet sürmek"
+  },
+  {
+    "eng": "bill",
+    "tr": "senet, fatura, ilan etmek"
+  },
+  {
+    "eng": "bird",
+    "tr": "kuş, manita"
+  },
+  {
+    "eng": "birthday",
+    "tr": "yaş günü, doğum günü"
+  },
+  {
+    "eng": "black",
+    "tr": "siyahi, kara, siyah"
+  },
+  {
+    "eng": "blog",
+    "tr": "web günlüğü, internet günlüğü"
+  },
+  {
+    "eng": "blonde",
+    "tr": "sarışın, sarışın kız, sarı"
+  },
+  {
+    "eng": "blue",
+    "tr": "mavi, çarçur etmek, har vurup harman savurmak"
+  },
+  {
+    "eng": "boat",
+    "tr": "tekne, bot, kayık"
+  },
+  {
+    "eng": "body",
+    "tr": "ceset, gövde, vücut"
+  },
+  {
+    "eng": "book",
+    "tr": "ayırtmak, kitap, deftere işlemek"
+  },
+  {
+    "eng": "boot",
+    "tr": "bot, çizme, kovmak"
+  },
+  {
+    "eng": "bored",
+    "tr": "sıkılmış, delinmiş, bıkkın"
+  },
+  {
+    "eng": "boring",
+    "tr": "bıktırıcı, bıktıran, sıkıcı"
+  },
+  {
+    "eng": "born",
+    "tr": "doğan, doğuştan, doğmuş"
+  },
+  {
+    "eng": "both",
+    "tr": "her ikisi de, her iki, her ikisi (de)"
+  },
+  {
+    "eng": "bottle",
+    "tr": "şişe, susturmak, şişelemek"
+  },
+  {
+    "eng": "box",
+    "tr": "kutu, boks etmek, yumruk atmak"
+  },
+  {
+    "eng": "boy",
+    "tr": "delikanlı, erkek çocuk, oğlan"
+  },
+  {
+    "eng": "boyfriend",
+    "tr": "flört, sevgili, erkek arkadaş"
+  },
+  {
+    "eng": "bread",
+    "tr": "ekmek, pane etmek, geçim"
+  },
+  {
+    "eng": "break",
+    "tr": "kopmak, kırmak, bozmak"
+  },
+  {
+    "eng": "breakfast",
+    "tr": "kahvaltı, kahvaltı etmek, kahvaltı"
+  },
+  {
+    "eng": "bring",
+    "tr": "getirmek, brought - brought, neden olmak"
+  },
+  {
+    "eng": "brother",
+    "tr": "kardeş, erkek kardeş"
+  },
+  {
+    "eng": "brown",
+    "tr": "kahverengi, kızarmak, karartmak"
+  },
+  {
+    "eng": "build",
+    "tr": "inşa etmek, built - built, bina etmek"
+  },
+  {
+    "eng": "building",
+    "tr": "inşaat, bina, yapma"
+  },
+  {
+    "eng": "bus",
+    "tr": "otobüs, otobüsle taşımak, otobüsle gitmek"
+  },
+  {
+    "eng": "business",
+    "tr": "işletme, iş, iş kuruluşu"
+  },
+  {
+    "eng": "busy",
+    "tr": "işlek, meşgul, faal"
+  },
+  {
+    "eng": "but",
+    "tr": "ancak, fakat, itiraz"
+  },
+  {
+    "eng": "butter",
+    "tr": "tereyağı, tereyağı sürmek, yağ sürmek"
+  },
+  {
+    "eng": "buy",
+    "tr": "ısmarlamak, satın almak, almak"
+  },
+  {
+    "eng": "by",
+    "tr": "geçecek biçimde, yakın, evde"
+  },
+  {
+    "eng": "bye",
+    "tr": "ast, çiftli yarışan çiftlerden biri, hoşçakal"
+  },
+  {
+    "eng": "cafe",
+    "tr": "kafe, bar, kahve"
+  },
+  {
+    "eng": "cake",
+    "tr": "kek, pasta, kabuklaşmak"
+  },
+  {
+    "eng": "call",
+    "tr": "çağırmak, telefon açmak, telefon etmek"
+  },
+  {
+    "eng": "camera",
+    "tr": "fotoğraf makinesi, kamera, fotoğraf makinesi"
+  },
+  {
+    "eng": "can",
+    "tr": "olabilmek, kovmak, konservelemek"
+  },
+  {
+    "eng": "cannot",
+    "tr": "edememek, yapamamak"
+  },
+  {
+    "eng": "capital",
+    "tr": "sermaye, başkent, kapital"
+  },
+  {
+    "eng": "car",
+    "tr": "otomobil, araba, kabin"
+  },
+  {
+    "eng": "card",
+    "tr": "kart, iskambil kağıdı, fişlemek"
+  },
+  {
+    "eng": "career",
+    "tr": "kariyer, hız yapmak, son hızda gitmek"
+  },
+  {
+    "eng": "carrot",
+    "tr": "kızıl saç, havuç, ödül/teşvik"
+  },
+  {
+    "eng": "carry",
+    "tr": "taşımak, sürüklemek, elde etmek"
+  },
+  {
+    "eng": "cat",
+    "tr": "kedi, istifra etmek, kusmak"
+  },
+  {
+    "eng": "CD",
+    "tr": "dış çap, cd, compact disk"
+  },
+  {
+    "eng": "cent",
+    "tr": "sent, metelik, sent amerikan dolarının yüzde biri"
+  },
+  {
+    "eng": "centre",
+    "tr": "merkez, merkezde toplanmak, konsantre olmak"
+  },
+  {
+    "eng": "century",
+    "tr": "asır, yüzyıl"
+  },
+  {
+    "eng": "chair",
+    "tr": "koltuk, sandalye, iskemle"
+  },
+  {
+    "eng": "change",
+    "tr": "değişmek, değiştirmek, değişiklik"
+  },
+  {
+    "eng": "chart",
+    "tr": "çizelge, göstermek, haritaya almak"
+  },
+  {
+    "eng": "cheap",
+    "tr": "ucuz, ucuzlatmak, değersiz"
+  },
+  {
+    "eng": "check",
+    "tr": "denetlemek, kontrol etmek, kontrol"
+  },
+  {
+    "eng": "cheese",
+    "tr": "peynir, peynir kalıbı, meyve konservesi"
+  },
+  {
+    "eng": "chicken",
+    "tr": "tavuk, piliç, korkak davranmak"
+  },
+  {
+    "eng": "child",
+    "tr": "evlat, çocuk, ürün"
+  },
+  {
+    "eng": "chocolate",
+    "tr": "çikolata, çikolatalı şekerleme, çikolatadan yapılmış"
+  },
+  {
+    "eng": "choose",
+    "tr": "seçmek, chose - chosen, ayırmak"
+  },
+  {
+    "eng": "cinema",
+    "tr": "sinema, sinema salonu"
+  },
+  {
+    "eng": "city",
+    "tr": "kent, şehir, metropol"
+  },
+  {
+    "eng": "class",
+    "tr": "ders, sınıf, dershane"
+  },
+  {
+    "eng": "clean",
+    "tr": "temizlemek, temiz, temizlenmek"
+  },
+  {
+    "eng": "climb",
+    "tr": "tırmanmak, tırmanış, çıkmak"
+  },
+  {
+    "eng": "clock",
+    "tr": "saat, saat tutmak, ölçmek"
+  },
+  {
+    "eng": "close",
+    "tr": "kapamak, kapatmak, yakın"
+  },
+  {
+    "eng": "clothes",
+    "tr": "giysi, elbise, esvap"
+  },
+  {
+    "eng": "club",
+    "tr": "kulüp, ortakça yatırmak, sopa ile dövmek"
+  },
+  {
+    "eng": "coat",
+    "tr": "kaplamak, kaban, mont"
+  },
+  {
+    "eng": "coffee",
+    "tr": "kahve, kahvehane, kıraathane"
+  },
+  {
+    "eng": "cold",
+    "tr": "soğukluk, soğukkanlı, soğuk"
+  },
+  {
+    "eng": "college",
+    "tr": "yüksekokul, kolej, üniversite"
+  },
+  {
+    "eng": "colour",
+    "tr": "renk, boya, yüzü kızarmak"
+  },
+  {
+    "eng": "come",
+    "tr": "gelmek, came - come, gelip dayanmak"
+  },
+  {
+    "eng": "common",
+    "tr": "alışılmış, alelade, yaygın"
+  },
+  {
+    "eng": "company",
+    "tr": "bölük, şirket, firma"
+  },
+  {
+    "eng": "compare",
+    "tr": "mukayese etmek, kıyaslamak, karşılaştırmak"
+  },
+  {
+    "eng": "complete",
+    "tr": "tamamlamak, tam, bütün"
+  },
+  {
+    "eng": "computer",
+    "tr": "bilgisayar"
+  },
+  {
+    "eng": "concert",
+    "tr": "konser, anlaşmak, birlikte hareket etmek"
+  },
+  {
+    "eng": "conversation",
+    "tr": "konuşma, sohbet, muhabbet"
+  },
+  {
+    "eng": "cook",
+    "tr": "yemek pişirmek, pişirmek, aşçı"
+  },
+  {
+    "eng": "cooking",
+    "tr": "yemek pişirme, mutfak, pişim"
+  },
+  {
+    "eng": "cool",
+    "tr": "soğutmak, serinlik, serin"
+  },
+  {
+    "eng": "correct",
+    "tr": "düzeltmek, doğru, haddini bildirmek"
+  },
+  {
+    "eng": "cost",
+    "tr": "mal olmak, masraf, ücret"
+  },
+  {
+    "eng": "could",
+    "tr": "-abilirdi, -er misin(iz), -ebilirdi"
+  },
+  {
+    "eng": "country",
+    "tr": "yurt, memleket, ülke"
+  },
+  {
+    "eng": "course",
+    "tr": "kurs, izlenen yol, rota"
+  },
+  {
+    "eng": "cousin",
+    "tr": "kuzen, teyze oğlu/kızı, amca oğlu"
+  },
+  {
+    "eng": "cow",
+    "tr": "inek, korkutmak, posta koymak"
+  },
+  {
+    "eng": "cream",
+    "tr": "kaymak, krema, krem"
+  },
+  {
+    "eng": "create",
+    "tr": "meydana getirmek, oluşturmak, yaratmak"
+  },
+  {
+    "eng": "culture",
+    "tr": "kültür, zevk ve eleştirme yeteneklerinin öğrenim ve yaşantılar yoluyla geliştirilmiş olan biçimi, terbiye"
+  },
+  {
+    "eng": "cup",
+    "tr": "kupa, fincan, kavramak"
+  },
+  {
+    "eng": "customer",
+    "tr": "müşteri, alıcı, tip"
+  },
+  {
+    "eng": "cut",
+    "tr": "kesmek, pay, kesik"
+  },
+  {
+    "eng": "dad",
+    "tr": "babacığım, baba, babacık"
+  },
+  {
+    "eng": "dance",
+    "tr": "dans etmek, dans, sıçramak"
+  },
+  {
+    "eng": "dancer",
+    "tr": "dansöz, dansçı, rakkase"
+  },
+  {
+    "eng": "dancing",
+    "tr": "dans etme, dans, oynama"
+  },
+  {
+    "eng": "dangerous",
+    "tr": "tehlikeli, çekinceli, riskli"
+  },
+  {
+    "eng": "dark",
+    "tr": "karanlık, koyu, belirsizlik"
+  },
+  {
+    "eng": "date",
+    "tr": "(biriyle) çıkmak, randevuya çıkmak, zaman"
+  },
+  {
+    "eng": "daughter",
+    "tr": "kız çocuk, kız evlat, ilişki"
+  },
+  {
+    "eng": "day",
+    "tr": "gün, dönem, gündüz"
+  },
+  {
+    "eng": "dear",
+    "tr": "sevgili, canım, tatlı kimse"
+  },
+  {
+    "eng": "December",
+    "tr": "aralık (ayı), aralık, aralık ayı"
+  },
+  {
+    "eng": "decide",
+    "tr": "karar vermek, belirlemek, azmetmek"
+  },
+  {
+    "eng": "delicious",
+    "tr": "nefis, leziz, lezzetli"
+  },
+  {
+    "eng": "describe",
+    "tr": "betimlemek, tanımlamak, tarif etmek"
+  },
+  {
+    "eng": "description",
+    "tr": "tasvir, betimleme, tarif"
+  },
+  {
+    "eng": "design",
+    "tr": "dizayn etmek, tasarlamak, tasarım"
+  },
+  {
+    "eng": "desk",
+    "tr": "çalışma masası, okul sırası, kürsü"
+  },
+  {
+    "eng": "detail",
+    "tr": "detay, ayrıntı, ayrıntılı anlatmak"
+  },
+  {
+    "eng": "dialogue",
+    "tr": "diyalog, karşılıklı konuşma, konuşma"
+  },
+  {
+    "eng": "dictionary",
+    "tr": "sözlük, ansiklopedik sözlük, kamu"
+  },
+  {
+    "eng": "die",
+    "tr": "ölmek, çenesi atmak, kandilin yağı tükenmek"
+  },
+  {
+    "eng": "diet",
+    "tr": "diyet, perhiz, perhiz vermek"
+  },
+  {
+    "eng": "difference",
+    "tr": "ayrım, fark, dava"
+  },
+  {
+    "eng": "different",
+    "tr": "farklı, değişik, başka"
+  },
+  {
+    "eng": "difficult",
+    "tr": "çetin, zor, zorlu"
+  },
+  {
+    "eng": "dinner",
+    "tr": "akşam yemeği, yemek, günün esas yemeği"
+  },
+  {
+    "eng": "dirty",
+    "tr": "pisletmek, pis, kirli"
+  },
+  {
+    "eng": "discuss",
+    "tr": "görüşmek, tartışmak, müzakere etmek"
+  },
+  {
+    "eng": "dish",
+    "tr": "tabak, mahvetmek, oymak"
+  },
+  {
+    "eng": "do",
+    "tr": "etmek, yapmak, did - done"
+  },
+  {
+    "eng": "doctor",
+    "tr": "doktor, değiştirmek (kötü bir amaçla), tahrif etmek"
+  },
+  {
+    "eng": "dog",
+    "tr": "it, köpek, bozulmak"
+  },
+  {
+    "eng": "dollar",
+    "tr": "amerikan parası, dolar, dolar"
+  },
+  {
+    "eng": "door",
+    "tr": "kapı, kapı, eşik"
+  },
+  {
+    "eng": "down",
+    "tr": "aşağıya doğru, aşağı, alçağa etmek"
+  },
+  {
+    "eng": "downstairs",
+    "tr": "aşağı katta, alttaki kat, alt kat"
+  },
+  {
+    "eng": "draw",
+    "tr": "karalamak, çekmek, çizmek"
+  },
+  {
+    "eng": "dress",
+    "tr": "giyinmek,giysi"
+  },
+  {
+    "eng": "drink",
+    "tr": "içmek, içki, drank - drunk"
+  },
+  {
+    "eng": "drive",
+    "tr": "sürmek, araba sürmek, dürtü"
+  },
+  {
+    "eng": "driver",
+    "tr": "sürücü, şoför, makinist"
+  },
+  {
+    "eng": "during",
+    "tr": "zarfında, süresince, sırasında"
+  },
+  {
+    "eng": "DVD",
+    "tr": "dvd"
+  },
+  {
+    "eng": "each",
+    "tr": "her biri, herbir, beher"
+  },
+  {
+    "eng": "ear",
+    "tr": "kulak, başkalanmak, kulak"
+  },
+  {
+    "eng": "early",
+    "tr": "erken, ilkel"
+  },
+  {
+    "eng": "east",
+    "tr": "doğu, gündoğuşu, doğudaki bölüm"
+  },
+  {
+    "eng": "easy",
+    "tr": "rahat, kolay, basit"
+  },
+  {
+    "eng": "eat",
+    "tr": "yemek yemek, yemek, ate - eaten"
+  },
+  {
+    "eng": "egg",
+    "tr": "yumurta, teşvik etmek, tahrik etmek"
+  },
+  {
+    "eng": "eight",
+    "tr": "sekiz, ambar, sekiz rakamı"
+  },
+  {
+    "eng": "eighteen",
+    "tr": " on sekiz"
+  },
+  {
+    "eng": "eighty",
+    "tr": "seksen"
+  },
+  {
+    "eng": "elephant",
+    "tr": "fil"
+  },
+  {
+    "eng": "eleven",
+    "tr": " on bir"
+  },
+  {
+    "eng": "else",
+    "tr": "başka, başka türlü, daha"
+  },
+  {
+    "eng": "email",
+    "tr": "email göndermek, eposta, elektronik posta"
+  },
+  {
+    "eng": "end",
+    "tr": "sona ermek, son, son bulmak"
+  },
+  {
+    "eng": "enjoy",
+    "tr": "tadını çıkarmak, zevk almak, anlamak"
+  },
+  {
+    "eng": "enough",
+    "tr": "kafi, yeterli, yeter"
+  },
+  {
+    "eng": "euro",
+    "tr": "euro, avro"
+  },
+  {
+    "eng": "even",
+    "tr": "düzgün, düz, pürüzsüz"
+  },
+  {
+    "eng": "evening",
+    "tr": "akşam, akşam zamanı"
+  },
+  {
+    "eng": "event",
+    "tr": "olay, aksiyon"
+  },
+  {
+    "eng": "ever",
+    "tr": "daima, durmadan, her zaman"
+  },
+  {
+    "eng": "every",
+    "tr": "her, bütün, alışılmış"
+  },
+  {
+    "eng": "everybody",
+    "tr": "cümle alem, dost düşman, herkes"
+  },
+  {
+    "eng": "everyone",
+    "tr": "herkes,  elalem"
+  },
+  {
+    "eng": "everything",
+    "tr": "her şey"
+  },
+  {
+    "eng": "exam",
+    "tr": "imtihan, sınav, muayene"
+  },
+  {
+    "eng": "example",
+    "tr": "örnek, ibret, numune"
+  },
+  {
+    "eng": "excited",
+    "tr": "heyecanlı, hararetli, coşkulu"
+  },
+  {
+    "eng": "exciting",
+    "tr": "heyecanlı, heyecan verici, heyecanlandırma"
+  },
+  {
+    "eng": "exercise",
+    "tr": "alıştırma yapmak, egzersiz yapmak, egzersiz"
+  },
+  {
+    "eng": "expensive",
+    "tr": "masraflı, pahalı, pahalıya mal olan"
+  },
+  {
+    "eng": "explain",
+    "tr": "açıklamak, izah etmek, izah etmek"
+  },
+  {
+    "eng": "extra",
+    "tr": "ekstra, ilave gazete, ilave"
+  },
+  {
+    "eng": "eye",
+    "tr": "göz, dikkatle bakmak, süzmek"
+  },
+  {
+    "eng": "face",
+    "tr": "yüzleşmek, yüz yüze gelmek, yönelmek"
+  },
+  {
+    "eng": "fact",
+    "tr": "vaka, gerçek durum"
+  },
+  {
+    "eng": "fall",
+    "tr": "inmek, düşmek, güz"
+  },
+  {
+    "eng": "FALSE",
+    "tr": "takma, düzmece, sahte"
+  },
+  {
+    "eng": "family",
+    "tr": "sülale, aile, hamile"
+  },
+  {
+    "eng": "famous",
+    "tr": "ünlü, meşhur, ünlü"
+  },
+  {
+    "eng": "fantastic",
+    "tr": "fantastik, şahane, harika"
+  },
+  {
+    "eng": "far",
+    "tr": "uzak, öteki, çok fazla"
+  },
+  {
+    "eng": "farm",
+    "tr": "çiftlik, ekmek, ekip biçmek"
+  },
+  {
+    "eng": "farmer",
+    "tr": "çiftçi, çiftlik sahibi, rençper"
+  },
+  {
+    "eng": "fast",
+    "tr": "süratli, çabuk, hızlı"
+  },
+  {
+    "eng": "fat",
+    "tr": "semirtmek, şişmanlatmak, yağ"
+  },
+  {
+    "eng": "father",
+    "tr": "papaz, peder, baba"
+  },
+  {
+    "eng": "favourite",
+    "tr": "gözde, favori, gözde"
+  },
+  {
+    "eng": "February",
+    "tr": "şubat, yılın ikinci ayı, gücük ay"
+  },
+  {
+    "eng": "feel",
+    "tr": "hissetmek, felt - felt, sezmek"
+  },
+  {
+    "eng": "feeling",
+    "tr": "his, duygu, şefkat"
+  },
+  {
+    "eng": "festival",
+    "tr": "bayram, şenlik, festival"
+  },
+  {
+    "eng": "few",
+    "tr": "az, birkaç, az miktar"
+  },
+  {
+    "eng": "fifteen",
+    "tr": "onbeş, on beş sayısı (15, XV), on beş"
+  },
+  {
+    "eng": "fifth",
+    "tr": "beşinci, beşte bir, beş"
+  },
+  {
+    "eng": "fifty",
+    "tr": "elli sayısı (50), elli, 50"
+  },
+  {
+    "eng": "fill",
+    "tr": "doldurmak, kaplamak, şişirmek"
+  },
+  {
+    "eng": "film",
+    "tr": "film, film, filme almak"
+  },
+  {
+    "eng": "final",
+    "tr": "final, nihai, kesin"
+  },
+  {
+    "eng": "find",
+    "tr": "bulmak, found - found, rastlamak"
+  },
+  {
+    "eng": "fine",
+    "tr": "ceza kesmek, para cezası, hoş"
+  },
+  {
+    "eng": "finish",
+    "tr": "sona ermek, bitirmek, bitmek"
+  },
+  {
+    "eng": "fire",
+    "tr": "ateşlemek, kovmak, yangın"
+  },
+  {
+    "eng": "first",
+    "tr": "birinci, ilk, önce"
+  },
+  {
+    "eng": "fish",
+    "tr": "balık, balığa çıkmak, avlamak"
+  },
+  {
+    "eng": "five",
+    "tr": "beş, beş rakamı (5, V), iskambilde beşli"
+  },
+  {
+    "eng": "flat",
+    "tr": "düz yüzey, daire, yassı"
+  },
+  {
+    "eng": "flight",
+    "tr": "uçuş, uçmak, yağmur (kurşun, ok vb)"
+  },
+  {
+    "eng": "floor",
+    "tr": "yeri kaplamak, kat, yer"
+  },
+  {
+    "eng": "flower",
+    "tr": "çiçek, çiçeklenmek"
+  },
+  {
+    "eng": "fly",
+    "tr": "uçmak, sinek, flew - flown"
+  },
+  {
+    "eng": "food",
+    "tr": "besin, yiyecek, gıda"
+  },
+  {
+    "eng": "foot",
+    "tr": "ayak, hesaplamak, çıkarmak"
+  },
+  {
+    "eng": "football",
+    "tr": "futbol, futbol topu, amerikan futbolu"
+  },
+  {
+    "eng": "for",
+    "tr": "için, yönünden, zarfında"
+  },
+  {
+    "eng": "forget",
+    "tr": "unutmak, forgot - forgotten/forgot, ihmal etmek"
+  },
+  {
+    "eng": "form",
+    "tr": "biçimlendirmek, şekillendirmek, oluşturmak"
+  },
+  {
+    "eng": "forty",
+    "tr": "kırk, kırk sayısı (40), 40"
+  },
+  {
+    "eng": "four",
+    "tr": "dört, kare, dört rakamı 4"
+  },
+  {
+    "eng": "fourteen",
+    "tr": "on dört, on dört sayısı (XIV, 14), on dört"
+  },
+  {
+    "eng": "fourth",
+    "tr": "dördüncü, dördü"
+  },
+  {
+    "eng": "free",
+    "tr": "bağımsız, beleş, muaf"
+  },
+  {
+    "eng": "Friday",
+    "tr": "cuma, cuma günü"
+  },
+  {
+    "eng": "friend",
+    "tr": "ahbap, arkadaş, dost"
+  },
+  {
+    "eng": "friendly",
+    "tr": "arkadaş canlısı, arkadaşça, cana yakın"
+  },
+  {
+    "eng": "from",
+    "tr": "-den beri, -den itibaren, -den"
+  },
+  {
+    "eng": "front",
+    "tr": "yönelmek, ön, cephe"
+  },
+  {
+    "eng": "fruit",
+    "tr": "meyve vermek, meyve, meyvelenmek"
+  },
+  {
+    "eng": "full",
+    "tr": "tok, tam, dolu"
+  },
+  {
+    "eng": "fun",
+    "tr": "eğlence, eğlenme, şaka etmek"
+  },
+  {
+    "eng": "funny",
+    "tr": "komik, gırgır, güldürücü"
+  },
+  {
+    "eng": "future",
+    "tr": "istikbal, gelecek, gelecek zaman"
+  },
+  {
+    "eng": "game",
+    "tr": "oyun, kumar oynamak, maç"
+  },
+  {
+    "eng": "garden",
+    "tr": "bahçe, çiçeklerle uğraşmak, bahçede çalışmak"
+  },
+  {
+    "eng": "geography",
+    "tr": "coğrafya"
+  },
+  {
+    "eng": "get",
+    "tr": "elde etmek, almak, kazanmak"
+  },
+  {
+    "eng": "girl",
+    "tr": "kız, kız arkadaş"
+  },
+  {
+    "eng": "girlfriend",
+    "tr": "kız arkadaş, manita, flört"
+  },
+  {
+    "eng": "give",
+    "tr": "vermek, gave - given, bahşetmek"
+  },
+  {
+    "eng": "glass",
+    "tr": "kadeh, bardak, cam"
+  },
+  {
+    "eng": "go",
+    "tr": "hareket etmek, gitmek, went - gone"
+  },
+  {
+    "eng": "good",
+    "tr": "güzel, hayırlı, iyi"
+  },
+  {
+    "eng": "goodbye",
+    "tr": "güle güle, hoşçakal, elveda"
+  },
+  {
+    "eng": "grandfather",
+    "tr": "dede, büyükbaba, cet"
+  },
+  {
+    "eng": "grandmother",
+    "tr": "babaanne, anneanne, nine"
+  },
+  {
+    "eng": "grandparent",
+    "tr": "büyükbaba, büyük ebeveyn, büyükbaba veya büyükanne"
+  },
+  {
+    "eng": "great",
+    "tr": "mükemmel, müthiş, harika"
+  },
+  {
+    "eng": "green",
+    "tr": "yeşil, yeşermek, yeşile boyamak"
+  },
+  {
+    "eng": "grey",
+    "tr": "ağartmak, ağarmak, gri"
+  },
+  {
+    "eng": "group",
+    "tr": "grup, gruplandırmak, toplanmak"
+  },
+  {
+    "eng": "grow",
+    "tr": "yetişmek, büyümek, grew - grown"
+  },
+  {
+    "eng": "guess",
+    "tr": "tahmin etmek, tahmin, sanmak"
+  },
+  {
+    "eng": "guitar",
+    "tr": "gitarist, gitara, gitar"
+  },
+  {
+    "eng": "gym",
+    "tr": "spor salonu, jimnastik, beden eğitimi"
+  },
+  {
+    "eng": "hair",
+    "tr": "tüy, kıl, saç"
+  },
+  {
+    "eng": "half",
+    "tr": "yarım, yarı, devre"
+  },
+  {
+    "eng": "hand",
+    "tr": "el, yakalamak, uzatmak"
+  },
+  {
+    "eng": "happen",
+    "tr": "meydana gelmek, olmak, başından geçmek"
+  },
+  {
+    "eng": "happy",
+    "tr": "sevinçli, mutlu, çakırkeyif"
+  },
+  {
+    "eng": "hard",
+    "tr": "çetin, sert, zahmetli"
+  },
+  {
+    "eng": "hat",
+    "tr": "şapka, başlık"
+  },
+  {
+    "eng": "have",
+    "tr": "sahip olmak, had - had, elinde tutmak"
+  },
+  {
+    "eng": "have to",
+    "tr": "mecburiyetinde kalmak, gerekmek, mecbur olmak"
+  },
+  {
+    "eng": "he",
+    "tr": "eril o, o, kendileri"
+  },
+  {
+    "eng": "head",
+    "tr": "kelle, kafa, baş"
+  },
+  {
+    "eng": "health",
+    "tr": "sıhhat, sağlık, afiyet"
+  },
+  {
+    "eng": "healthy",
+    "tr": "sıhhatli, sağlıklı, sağlığa yararlı"
+  },
+  {
+    "eng": "hear",
+    "tr": "duymak, işitmek, heard - heard"
+  },
+  {
+    "eng": "hello",
+    "tr": "merhaba, selam"
+  },
+  {
+    "eng": "help",
+    "tr": "yardım etmek, yardım, muavenet etmek"
+  },
+  {
+    "eng": "her",
+    "tr": "ona, dişil onu, ondan"
+  },
+  {
+    "eng": "here",
+    "tr": "burada, buraya, burda"
+  },
+  {
+    "eng": "hey",
+    "tr": "selam"
+  },
+  {
+    "eng": "hi",
+    "tr": "merhaba, selam, merhabalar"
+  },
+  {
+    "eng": "high",
+    "tr": "yüksek, direnmek, öfkelenmek"
+  },
+  {
+    "eng": "him",
+    "tr": "onu, (erkek) onu"
+  },
+  {
+    "eng": "his",
+    "tr": "eril onunki, onun, onunki"
+  },
+  {
+    "eng": "history",
+    "tr": "geçmiş, tarih, kayıtlar"
+  },
+  {
+    "eng": "hobby",
+    "tr": "hobi, şahin, merak"
+  },
+  {
+    "eng": "holiday",
+    "tr": "bayram, tatil, tatil yapmak"
+  },
+  {
+    "eng": "home",
+    "tr": "ev, yerleştirmek, yuvasına dönmek"
+  },
+  {
+    "eng": "homework",
+    "tr": "ödev, ev ödevi, ödev"
+  },
+  {
+    "eng": "hope",
+    "tr": "umut etmek, umut"
+  },
+  {
+    "eng": "horse",
+    "tr": "beygir, at, oynamak"
+  },
+  {
+    "eng": "hospital",
+    "tr": "hastane, darüşşifa, darülaceze"
+  },
+  {
+    "eng": "hot",
+    "tr": "kızgın, ateşli, acı"
+  },
+  {
+    "eng": "hotel",
+    "tr": "otel, vakit, zaman"
+  },
+  {
+    "eng": "hour",
+    "tr": "saat, vakit, zaman"
+  },
+  {
+    "eng": "house",
+    "tr": "ev, konut, kendi evine almak"
+  },
+  {
+    "eng": "how",
+    "tr": "nasıl, yapma yöntemi, yapma tarzı"
+  },
+  {
+    "eng": "however",
+    "tr": "bununla birlikte, yine de, her nasılsa"
+  },
+  {
+    "eng": "hundred",
+    "tr": "yüz, yüzlük, yüz sayısı, 100"
+  },
+  {
+    "eng": "hungry",
+    "tr": "acıkmış, aç, istekli"
+  },
+  {
+    "eng": "husband",
+    "tr": "koca, eş, idareli kullanmak"
+  },
+  {
+    "eng": "I",
+    "tr": "ben, İngiliz alfabesinin dokuzuncu harfi, roma rakamları dizisinde 1 sayısı"
+  },
+  {
+    "eng": "Internet",
+    "tr": "internet, ağlararası ağ, sanaldalayan"
+  },
+  {
+    "eng": "ice",
+    "tr": "buz, öldürmek, buzda soğutmak"
+  },
+  {
+    "eng": "ice cream",
+    "tr": "dondurma"
+  },
+  {
+    "eng": "idea",
+    "tr": "fikir, düşünce, sanı"
+  },
+  {
+    "eng": "if",
+    "tr": "eğer, belirsizlik, şart"
+  },
+  {
+    "eng": "imagine",
+    "tr": "hayal etmek, sanmak, kafasında canlandırmak"
+  },
+  {
+    "eng": "important",
+    "tr": "mühim, önemli, gururlu"
+  },
+  {
+    "eng": "improve",
+    "tr": "geliştirmek, gelişmek, ilerletmek"
+  },
+  {
+    "eng": "in",
+    "tr": "içeri, içinde, içeri"
+  },
+  {
+    "eng": "include",
+    "tr": "katmak, içermek, kapsamak"
+  },
+  {
+    "eng": "information",
+    "tr": "bilgi, ilmi vukuf, iddia"
+  },
+  {
+    "eng": "interest",
+    "tr": "ilgilendirmek, çıkar, faiz"
+  },
+  {
+    "eng": "interested",
+    "tr": "alakalı, ilgili, hissedar"
+  },
+  {
+    "eng": "interesting",
+    "tr": "ilginç, ilgi çekici, enteresan"
+  },
+  {
+    "eng": "interview",
+    "tr": "görüşmek, görüşme, mülakat"
+  },
+  {
+    "eng": "into",
+    "tr": "içine,şekline, biçimine"
+  },
+  {
+    "eng": "introduce",
+    "tr": "tanıtmak, tanıştırmak, içeri sokmak"
+  },
+  {
+    "eng": "island",
+    "tr": "ada, adacık, ada"
+  },
+  {
+    "eng": "it",
+    "tr": "ona, o, ebe (oyunlarda)"
+  },
+  {
+    "eng": "its",
+    "tr": "onun, -in"
+  },
+  {
+    "eng": "jacket",
+    "tr": "ceket, kaplamak, zarf"
+  },
+  {
+    "eng": "January",
+    "tr": "ocak, ocak ayı"
+  },
+  {
+    "eng": "jeans",
+    "tr": "kot, kot pantolon, blucin"
+  },
+  {
+    "eng": "job",
+    "tr": "görev, iş, kiraya vermek"
+  },
+  {
+    "eng": "join",
+    "tr": "birleştirmek, katılmak, katmak"
+  },
+  {
+    "eng": "journey",
+    "tr": "yolculuk, seyahat, yolculuk etmek"
+  },
+  {
+    "eng": "juice",
+    "tr": "meyve suyu, özsu, benzin"
+  },
+  {
+    "eng": "July",
+    "tr": "temmuz, yılın yedinci ayı, temmuz ayı"
+  },
+  {
+    "eng": "June",
+    "tr": "haziran, yılın altıncı ayı, haziran ayı"
+  },
+  {
+    "eng": "just",
+    "tr": "sadece, adil, yalnızca"
+  },
+  {
+    "eng": "keep",
+    "tr": "tutmak, saklamak, kept - kept"
+  },
+  {
+    "eng": "key",
+    "tr": "anahtar, tuş, girmek bilgisayar"
+  },
+  {
+    "eng": "kilometre",
+    "tr": "kilometre, kilometre (simgesi km), bin metre"
+  },
+  {
+    "eng": "kind",
+    "tr": "tür, çeşit, cins"
+  },
+  {
+    "eng": "kitchen",
+    "tr": "mutfak, kuzine, nevale"
+  },
+  {
+    "eng": "know",
+    "tr": "bilmek, tanımak, knew - known"
+  },
+  {
+    "eng": "land",
+    "tr": "karaya ayak basmak, kıyıya çıkmak, karaya çıkmak"
+  },
+  {
+    "eng": "language",
+    "tr": "lisan, dil, edebiyat"
+  },
+  {
+    "eng": "large",
+    "tr": "iri, geniş, büyük"
+  },
+  {
+    "eng": "last",
+    "tr": "sonuncu, son, tutunmak"
+  },
+  {
+    "eng": "late",
+    "tr": "gecikmiş, geç, her zamanki"
+  },
+  {
+    "eng": "later",
+    "tr": "sonradan, sonra, sonraki"
+  },
+  {
+    "eng": "laugh",
+    "tr": "gülmek, gülme, gülüş"
+  },
+  {
+    "eng": "learn",
+    "tr": "öğrenmek, learned/learnt - learned/learnt, işitmek"
+  },
+  {
+    "eng": "leave",
+    "tr": "bırakmak, ayrılmak, terk etmek"
+  },
+  {
+    "eng": "left",
+    "tr": "sol, kalmak, sol kanat"
+  },
+  {
+    "eng": "leg",
+    "tr": "ayak (mobilya/pergel), bacak, koşmak"
+  },
+  {
+    "eng": "lesson",
+    "tr": "ders, azar, hisse"
+  },
+  {
+    "eng": "let",
+    "tr": "izin vermek, let - let, vermek"
+  },
+  {
+    "eng": "letter",
+    "tr": "mektup, harf, basmak"
+  },
+  {
+    "eng": "library",
+    "tr": "kitaplık, kütüphane, kütüphane binası"
+  },
+  {
+    "eng": "lie",
+    "tr": "yatmak, uzanmak, yalan söylemek"
+  },
+  {
+    "eng": "life",
+    "tr": "yaşam, hayat, can"
+  },
+  {
+    "eng": "light",
+    "tr": "aydınlık, nur, ışık"
+  },
+  {
+    "eng": "like",
+    "tr": "beğenmek, hoşlanmak, sevmek"
+  },
+  {
+    "eng": "line",
+    "tr": "astar, satır, hat"
+  },
+  {
+    "eng": "lion",
+    "tr": "aslan, arslan, başarılı ve aranan kimse"
+  },
+  {
+    "eng": "list",
+    "tr": "listelemek, liste, kaydetmek"
+  },
+  {
+    "eng": "listen",
+    "tr": "dinlemek, dinlemek, kulak asmak"
+  },
+  {
+    "eng": "little",
+    "tr": "ufak, az, küçük"
+  },
+  {
+    "eng": "live",
+    "tr": "yaşamak, naklen, ikamet etmek"
+  },
+  {
+    "eng": "local",
+    "tr": "lokal, yerel, yerli"
+  },
+  {
+    "eng": "long",
+    "tr": "uzun, hasretini çekmek, susamak"
+  },
+  {
+    "eng": "look",
+    "tr": "bakmak, görünüş, bakış"
+  },
+  {
+    "eng": "lose",
+    "tr": "kaybetmek, yitirmek, lost - lost"
+  },
+  {
+    "eng": "lot",
+    "tr": "bölüştürmek, pay, taksim etmek"
+  },
+  {
+    "eng": "love",
+    "tr": "sevmek, sevda, aşk"
+  },
+  {
+    "eng": "lunch",
+    "tr": "öğle yemeği, öğle yemeği yemek, tümsek"
+  },
+  {
+    "eng": "machine",
+    "tr": "makine, makine ile yapmak veya şekil vermek, makine ile yapmak"
+  },
+  {
+    "eng": "magazine",
+    "tr": "fişek haznesi, dergi, mecmua"
+  },
+  {
+    "eng": "main",
+    "tr": "esas, ana, baş"
+  },
+  {
+    "eng": "make",
+    "tr": "yapmak, made - made, katetmek"
+  },
+  {
+    "eng": "man",
+    "tr": "insan, adam, erkek"
+  },
+  {
+    "eng": "many",
+    "tr": "birçok, çok, çoğu"
+  },
+  {
+    "eng": "map",
+    "tr": "harita, planlamak, saptamak"
+  },
+  {
+    "eng": "March",
+    "tr": "yürüyüş yapmak (topluca), yürüyüş (topluca), mart ayı"
+  },
+  {
+    "eng": "market",
+    "tr": "çarşı, pazar, piyasa"
+  },
+  {
+    "eng": "married",
+    "tr": "evli, evliliğe/evlilere özgü, başı bağlı"
+  },
+  {
+    "eng": "match",
+    "tr": "eşleştirmek, eşlemek, eş"
+  },
+  {
+    "eng": "May",
+    "tr": "mayıs ayı, mayıs, mümkün olmak"
+  },
+  {
+    "eng": "maybe",
+    "tr": "belki, belki, belki de"
+  },
+  {
+    "eng": "me",
+    "tr": "ben, beni, mi"
+  },
+  {
+    "eng": "meal",
+    "tr": "öğün, yemek, sofra"
+  },
+  {
+    "eng": "mean",
+    "tr": "kastetmek, anlamına gelmek, organ"
+  },
+  {
+    "eng": "meaning",
+    "tr": "mana, meal, anlam"
+  },
+  {
+    "eng": "meat",
+    "tr": "et, yiyecek et, öz"
+  },
+  {
+    "eng": "meet",
+    "tr": "karşılaşmak, buluşmak, görüşme yapmak"
+  },
+  {
+    "eng": "meeting",
+    "tr": "toplantı, buluşma, miting"
+  },
+  {
+    "eng": "member",
+    "tr": "üye, organ, mensup"
+  },
+  {
+    "eng": "menu",
+    "tr": "menü"
+  },
+  {
+    "eng": "message",
+    "tr": "ileti, mesaj, resmi bildiri"
+  },
+  {
+    "eng": "metre",
+    "tr": "metre, saat ile ölçmek, vezin"
+  },
+  {
+    "eng": "midnight",
+    "tr": "geceyarısı, gece yarısı"
+  },
+  {
+    "eng": "mile",
+    "tr": "mil, mil uzaklık ölçü birimi 1609 m, mil"
+  },
+  {
+    "eng": "milk",
+    "tr": "süt, süt vermek (inek), faydalanmak"
+  },
+  {
+    "eng": "million",
+    "tr": "milyon, milyon"
+  },
+  {
+    "eng": "minute",
+    "tr": "dakika, zabıt tutmak, tutanak tutmak"
+  },
+  {
+    "eng": "miss",
+    "tr": "ıska geçmek, özlemek, kaçırmak"
+  },
+  {
+    "eng": "mistake",
+    "tr": "yanlış, hata, yanlış"
+  },
+  {
+    "eng": "model",
+    "tr": "model, manken, modellik etmek"
+  },
+  {
+    "eng": "modern",
+    "tr": "çağdaş, modern, modern kimse"
+  },
+  {
+    "eng": "moment",
+    "tr": "an, önem, cevher"
+  },
+  {
+    "eng": "Monday",
+    "tr": "pazartesi, pazartesi"
+  },
+  {
+    "eng": "money",
+    "tr": "para, para kırmak, patpat"
+  },
+  {
+    "eng": "month",
+    "tr": "ay, ay (1), yılın on iki bölümünden her biri"
+  },
+  {
+    "eng": "more",
+    "tr": "daha fazla, daha, fazla şey"
+  },
+  {
+    "eng": "morning",
+    "tr": "sabah, sabah vakti, sabah"
+  },
+  {
+    "eng": "most",
+    "tr": "en, en çok, en fazlası"
+  },
+  {
+    "eng": "mother",
+    "tr": "ana, anne, anne gibi davranmak"
+  },
+  {
+    "eng": "mountain",
+    "tr": "dağ, yığın, cebeli"
+  },
+  {
+    "eng": "mouse",
+    "tr": "fare, fare avlamak, fare tutmak"
+  },
+  {
+    "eng": "mouth",
+    "tr": "ağız, tane tane söylemek"
+  },
+  {
+    "eng": "move",
+    "tr": "kımıldamak, kıpırdamak, hareket etmek"
+  },
+  {
+    "eng": "movie",
+    "tr": "film, sinema"
+  },
+  {
+    "eng": "much",
+    "tr": "fazla, çok, çok şey"
+  },
+  {
+    "eng": "mum",
+    "tr": "mum, maske ile oynamak, hanımefendi"
+  },
+  {
+    "eng": "museum",
+    "tr": "müze"
+  },
+  {
+    "eng": "music",
+    "tr": "müzik, ahenk, nağme"
+  },
+  {
+    "eng": "must",
+    "tr": "gerekmek, -malı, -meli"
+  },
+  {
+    "eng": "my",
+    "tr": "benim, bana ait, ismimle çağırmak"
+  },
+  {
+    "eng": "name",
+    "tr": "isim, ad, ad"
+  },
+  {
+    "eng": "natural",
+    "tr": "tabii, doğuştan, natürel"
+  },
+  {
+    "eng": "near",
+    "tr": "yakın, yakınlaşmak, yaklaşmak"
+  },
+  {
+    "eng": "need",
+    "tr": "ihtiyaç duymak, gerek, gereksinim"
+  },
+  {
+    "eng": "negative",
+    "tr": "negatif, olumsuz, etkisiz hale getirmek"
+  },
+  {
+    "eng": "neighbour",
+    "tr": "komşu, komşu olmak, yaklaşmak"
+  },
+  {
+    "eng": "never",
+    "tr": "hiç, asla, katiyen"
+  },
+  {
+    "eng": "new",
+    "tr": "yeni, keşfedilmemiş, değişik"
+  },
+  {
+    "eng": "news",
+    "tr": "haber, havadis, bilgi"
+  },
+  {
+    "eng": "newspaper",
+    "tr": "gazete, gazete"
+  },
+  {
+    "eng": "next",
+    "tr": "sonraki, bundan sonraki, en bitişik"
+  },
+  {
+    "eng": "next to",
+    "tr": "bitişik, yanında, hemen yanındaki"
+  },
+  {
+    "eng": "nice",
+    "tr": "sevimli, güzel, hoş"
+  },
+  {
+    "eng": "night",
+    "tr": "gece, tün, karanlık"
+  },
+  {
+    "eng": "nine",
+    "tr": "dokuz, dokuzu, 9"
+  },
+  {
+    "eng": "nineteen",
+    "tr": "on dokuz, on dokuz sayısı, on dokuz sayısı"
+  },
+  {
+    "eng": "ninety",
+    "tr": "doksan, doksan sayısı (90), 90"
+  },
+  {
+    "eng": "no",
+    "tr": "hayır, aleyhte oy, red"
+  },
+  {
+    "eng": "no one",
+    "tr": "hiç kimse"
+  },
+  {
+    "eng": "nobody",
+    "tr": "hiç kimse, önemsiz biri, bir hiç"
+  },
+  {
+    "eng": "north",
+    "tr": "kuzey, şimal, kuzeye bakan"
+  },
+  {
+    "eng": "nose",
+    "tr": "burun, koku almak, yavaş ilerlemek"
+  },
+  {
+    "eng": "not",
+    "tr": "gayri, yoksa, asla"
+  },
+  {
+    "eng": "note",
+    "tr": "not etmek, senet, nota"
+  },
+  {
+    "eng": "nothing",
+    "tr": "hiç, hiçbir şey, önemsiz (şey)"
+  },
+  {
+    "eng": "November",
+    "tr": "kasım, teşrin-i sani"
+  },
+  {
+    "eng": "now",
+    "tr": "şimdi, halen, derhal"
+  },
+  {
+    "eng": "number",
+    "tr": "numaralamak, saymak, sayı"
+  },
+  {
+    "eng": "nurse",
+    "tr": "hemşirelik yapmak, meme vermek, bakıcılık yapmak"
+  },
+  {
+    "eng": "object",
+    "tr": "itiraz etmek, razı olmamak, karşı çıkmak"
+  },
+  {
+    "eng": "o'clock",
+    "tr": "saat, saate göre, saat (tam saatlerle kullanılır)"
+  },
+  {
+    "eng": "October",
+    "tr": "ekim, teşrin-i evvel"
+  },
+  {
+    "eng": "of",
+    "tr": "karşı, olan, hakkında"
+  },
+  {
+    "eng": "off",
+    "tr": "kapalı, dışında, kalkmak"
+  },
+  {
+    "eng": "office",
+    "tr": "makam, ofis, büro"
+  },
+  {
+    "eng": "often",
+    "tr": "sık sık, çoğu kez, sık"
+  },
+  {
+    "eng": "oh",
+    "tr": "oh, ey, ha"
+  },
+  {
+    "eng": "OK",
+    "tr": "onaylamak, okeylemek, kabul etmek"
+  },
+  {
+    "eng": "old",
+    "tr": "eski, eskimiş, yaşlı"
+  },
+  {
+    "eng": "on",
+    "tr": "üstünde, üzerinde, yanmak"
+  },
+  {
+    "eng": "once",
+    "tr": "bir kere, bir kez, birkez"
+  },
+  {
+    "eng": "one",
+    "tr": "bir,biri, tek"
+  },
+  {
+    "eng": "onion",
+    "tr": "soğan, soğancık, kuru soğan"
+  },
+  {
+    "eng": "online",
+    "tr": "bağlantılı, online, çevrim içi"
+  },
+  {
+    "eng": "open",
+    "tr": "açılmak, açmak, açık"
+  },
+  {
+    "eng": "opinion",
+    "tr": "kanaat, kani, düşünce"
+  },
+  {
+    "eng": "opposite",
+    "tr": "zıt, aksi, karşıt"
+  },
+  {
+    "eng": "or",
+    "tr": "ya da, veya, altın sarısı"
+  },
+  {
+    "eng": "orange",
+    "tr": "portakal, portakal rengi, turuncu"
+  },
+  {
+    "eng": "order",
+    "tr": "sipariş vermek, emretmek, buyurmak"
+  },
+  {
+    "eng": "other",
+    "tr": "öbür, öteki, başka"
+  },
+  {
+    "eng": "our",
+    "tr": "bizim, bizim"
+  },
+  {
+    "eng": "out",
+    "tr": "çıkış, dışarıda, dışarı"
+  },
+  {
+    "eng": "outside",
+    "tr": "dıştan, dışarı, dışarısı"
+  },
+  {
+    "eng": "over",
+    "tr": "bitmiş, üzerine, üstüne"
+  },
+  {
+    "eng": "own",
+    "tr": "sahip olmak, kendi, itiraf etmek"
+  },
+  {
+    "eng": "page",
+    "tr": "sayfa, otelde birini komiyle çağırttırmak, numaralamak"
+  },
+  {
+    "eng": "paint",
+    "tr": "boyamak, boya, portresini yapmak"
+  },
+  {
+    "eng": "painting",
+    "tr": "tablo, resim, ressamlık"
+  },
+  {
+    "eng": "pair",
+    "tr": "çift, eşleştirmek, eşlemek"
+  },
+  {
+    "eng": "paper",
+    "tr": "kağıt, duvar kağıdı kaplamak, örtbas etmek"
+  },
+  {
+    "eng": "paragraph",
+    "tr": "fıkra, paragraf, makale"
+  },
+  {
+    "eng": "parent",
+    "tr": "ebeveynlik etmek, ata, soy"
+  },
+  {
+    "eng": "park",
+    "tr": "park etmek, park, park yapmak"
+  },
+  {
+    "eng": "part",
+    "tr": "parça, kısım, taraf"
+  },
+  {
+    "eng": "partner",
+    "tr": "eş, ortak, ortak etmek"
+  },
+  {
+    "eng": "party",
+    "tr": "taraf, parti, parti yaparak kutlamak"
+  },
+  {
+    "eng": "passport",
+    "tr": "geçiş belgesi, pasaport"
+  },
+  {
+    "eng": "past",
+    "tr": "geçmiş, geçmiş zaman, bir kimsenin geçmişi"
+  },
+  {
+    "eng": "pay",
+    "tr": "ödeme, ödeme, ücret"
+  },
+  {
+    "eng": "pen",
+    "tr": "kalem, hapsetmek, kaleme almak"
+  },
+  {
+    "eng": "pencil",
+    "tr": "kalem, kurşunkalem, kurşunkalemle çizmek"
+  },
+  {
+    "eng": "people",
+    "tr": "insanlar, ulus, halk"
+  },
+  {
+    "eng": "pepper",
+    "tr": "biber, üzerine biber ekmek, pul biber koymak"
+  },
+  {
+    "eng": "perfect",
+    "tr": "kusursuz, mükemmel, mükemmelleştirmek"
+  },
+  {
+    "eng": "period",
+    "tr": "devir, dönem, çağ"
+  },
+  {
+    "eng": "person",
+    "tr": "kişi, şahıs, kimse"
+  },
+  {
+    "eng": "personal",
+    "tr": "kişisel, özel, şahsi"
+  },
+  {
+    "eng": "phone",
+    "tr": "telefon etmek, telefon açmak, telefonlamak"
+  },
+  {
+    "eng": "photo",
+    "tr": "foto, fotoğraflamak, resim vermek"
+  },
+  {
+    "eng": "photograph",
+    "tr": "fotoğraflamak, fotoğrafını çekmek, resim vermek"
+  },
+  {
+    "eng": "phrase",
+    "tr": "ifade etmek, cümle veya sözcüklerle anlatmak"
+  },
+  {
+    "eng": "piano",
+    "tr": "piyano çalgı, piyano"
+  },
+  {
+    "eng": "picture",
+    "tr": "resim, yansıtmak, resmetmek"
+  },
+  {
+    "eng": "piece",
+    "tr": "tane, parça, yamalamak"
+  },
+  {
+    "eng": "pig",
+    "tr": "domuz, pislik içinde yaşamak, yavrulamak (domuz)"
+  },
+  {
+    "eng": "pink",
+    "tr": "pembe, delmek (süngü ile), süngü ile delmek"
+  },
+  {
+    "eng": "place",
+    "tr": "koymak, oturtmak, yerleştirmek"
+  },
+  {
+    "eng": "plan",
+    "tr": "planlamak, tasarlamak, plan"
+  },
+  {
+    "eng": "plane",
+    "tr": "düzlemek, düz (yüzey), yüzey"
+  },
+  {
+    "eng": "plant",
+    "tr": "ekmek, bitki, tesis"
+  },
+  {
+    "eng": "play",
+    "tr": "oynamak, çalmak, piyes"
+  },
+  {
+    "eng": "player",
+    "tr": "oyuncu, çalgıcı, sporcu"
+  },
+  {
+    "eng": "please",
+    "tr": "memnun etmek, lütfen, gönlünü hoş etmek"
+  },
+  {
+    "eng": "point",
+    "tr": "nokta, puan, uç"
+  },
+  {
+    "eng": "police",
+    "tr": "polis, inzibat altına almak, güvenliği sağlamak"
+  },
+  {
+    "eng": "policeman",
+    "tr": "polis, zapta memuru, polis (memuru)"
+  },
+  {
+    "eng": "pool",
+    "tr": "havuz, toplanmak, karı paylaşmak"
+  },
+  {
+    "eng": "poor",
+    "tr": "kötü, fakir, zavallı"
+  },
+  {
+    "eng": "popular",
+    "tr": "popüler, halkın kesesine elverişli, halka hitap eden"
+  },
+  {
+    "eng": "positive",
+    "tr": "pozitif, artı, olumlu"
+  },
+  {
+    "eng": "possible",
+    "tr": "olabilir, olanaklı, muhtemel"
+  },
+  {
+    "eng": "post",
+    "tr": "postalamak, makam, direk"
+  },
+  {
+    "eng": "potato",
+    "tr": "patates, baş, kafa"
+  },
+  {
+    "eng": "pound",
+    "tr": "yumruklamak, çakmak, dalgaya çarpmak (gemi)"
+  },
+  {
+    "eng": "practice",
+    "tr": "uygulamak, alıştırma yapmak, yapmak"
+  },
+  {
+    "eng": "practise",
+    "tr": "pratik yapmak, alıştırma yapmak, uygulamak"
+  },
+  {
+    "eng": "prefer",
+    "tr": "tercih etmek, yeğlemek, yeğ tutmak"
+  },
+  {
+    "eng": "prepare",
+    "tr": "hazırlamak, düzmek, pişirmek"
+  },
+  {
+    "eng": "present",
+    "tr": "sunmak, takdim etmek, şimdiki zaman"
+  },
+  {
+    "eng": "pretty",
+    "tr": "şirin, tatlı, güzel"
+  },
+  {
+    "eng": "price",
+    "tr": "bedel, fiyat, ücret"
+  },
+  {
+    "eng": "probably",
+    "tr": "galiba, muhtemelen, muhtemel olarak"
+  },
+  {
+    "eng": "problem",
+    "tr": "problem, mesele, sorun"
+  },
+  {
+    "eng": "product",
+    "tr": "ürün, mahsul, meyve"
+  },
+  {
+    "eng": "programme",
+    "tr": "program, programlamak, planlama"
+  },
+  {
+    "eng": "project",
+    "tr": "proje, iz düşürmek, planını çizmek"
+  },
+  {
+    "eng": "purple",
+    "tr": "mor, mora boyamak, erguvan rengi"
+  },
+  {
+    "eng": "put",
+    "tr": "koymak, put - put, hamletmek"
+  },
+  {
+    "eng": "quarter",
+    "tr": "çeyrek, yerleştirmek"
+  },
+  {
+    "eng": "question",
+    "tr": "soru, sorular sormak, sorgulamak"
+  },
+  {
+    "eng": "quick",
+    "tr": "süratli, hızlı, çabuk"
+  },
+  {
+    "eng": "quickly",
+    "tr": "hızla, aceleyle, süratle"
+  },
+  {
+    "eng": "quiet",
+    "tr": "sessizlik, sakin, sessiz"
+  },
+  {
+    "eng": "quite",
+    "tr": "epeyce, pek, epey"
+  },
+  {
+    "eng": "radio",
+    "tr": "radyo, telsiz, telsizle haber vermek"
+  },
+  {
+    "eng": "rain",
+    "tr": "yağmur yağmak, yağmur, yağmur gibi yağdırmak"
+  },
+  {
+    "eng": "read",
+    "tr": "okumak, read (sounds like \"red\") - read (sounds like \"red\"), çözmek"
+  },
+  {
+    "eng": "reader",
+    "tr": "okur, okuyucu, eleştirmen"
+  },
+  {
+    "eng": "reading",
+    "tr": "okuma, mana, yorum"
+  },
+  {
+    "eng": "ready",
+    "tr": "hazır, hazırlanmak, peşin para"
+  },
+  {
+    "eng": "real",
+    "tr": "hakiki, gerçek, samimi"
+  },
+  {
+    "eng": "really",
+    "tr": "hakikaten, gerçekten, cidden"
+  },
+  {
+    "eng": "reason",
+    "tr": "sebep, akıl, gerekçe"
+  },
+  {
+    "eng": "red",
+    "tr": "al, kızıl, kırmızı"
+  },
+  {
+    "eng": "relax",
+    "tr": "rahatlamak, rahatlatmak, dinlenmek"
+  },
+  {
+    "eng": "remember",
+    "tr": "hatırlamak, anımsamak, hatırlamak"
+  },
+  {
+    "eng": "repeat",
+    "tr": "yinelemek, tekrarlamak, tekrar etmek"
+  },
+  {
+    "eng": "report",
+    "tr": "haber vermek, rapor etmek, ihbar etmek"
+  },
+  {
+    "eng": "restaurant",
+    "tr": "lokanta, restoran, doyumevi"
+  },
+  {
+    "eng": "result",
+    "tr": "netice, sonuç, sonucu olmak"
+  },
+  {
+    "eng": "return",
+    "tr": "geri dönmek, dönmek, iade etmek"
+  },
+  {
+    "eng": "rice",
+    "tr": "pirinç, çeltik, pilav"
+  },
+  {
+    "eng": "rich",
+    "tr": "zengin, varsıl, bol"
+  },
+  {
+    "eng": "ride",
+    "tr": "binmek, gezinti, rode - ridden"
+  },
+  {
+    "eng": "right",
+    "tr": "sağ, hak, haklı"
+  },
+  {
+    "eng": "river",
+    "tr": "nehir, nehir, akış"
+  },
+  {
+    "eng": "road",
+    "tr": "yol, uyulan ilke, bir amaca ulaşmak için başvurulması gereken yöntem"
+  },
+  {
+    "eng": "room",
+    "tr": "oda, oturmak, kalmak"
+  },
+  {
+    "eng": "routine",
+    "tr": "rutin, adet, hergünkü işler"
+  },
+  {
+    "eng": "rule",
+    "tr": "hüküm sürmek, hükmetmek, kural"
+  },
+  {
+    "eng": "run",
+    "tr": "çalıştırmak, işletmek, koşmak"
+  },
+  {
+    "eng": "sad",
+    "tr": "hüzünlü, mahzun, üzücü"
+  },
+  {
+    "eng": "salad",
+    "tr": "salata"
+  },
+  {
+    "eng": "salt",
+    "tr": "tuz, biriktirmek, tuzlayarak saklamak"
+  },
+  {
+    "eng": "same",
+    "tr": "aynı, eşit, farksız"
+  },
+  {
+    "eng": "sandwich",
+    "tr": "sandviç, sıkıştırmak, arasına sıkıştırmak"
+  },
+  {
+    "eng": "Saturday",
+    "tr": "cumartesi"
+  },
+  {
+    "eng": "say",
+    "tr": "söylemek, demek, said - said"
+  },
+  {
+    "eng": "school",
+    "tr": "mektep, okul, yetiştirmek"
+  },
+  {
+    "eng": "science",
+    "tr": "ilim, bilim, beceri"
+  },
+  {
+    "eng": "scientist",
+    "tr": "bilgin, bilim insanı, bilim adamı"
+  },
+  {
+    "eng": "sea",
+    "tr": "deniz, okyanus, dalga"
+  },
+  {
+    "eng": "second",
+    "tr": "saniye, ikinci, destek vermek"
+  },
+  {
+    "eng": "section",
+    "tr": "kesit, bölüm, kısım"
+  },
+  {
+    "eng": "see",
+    "tr": "görmek, bakmak, saw - seen"
+  },
+  {
+    "eng": "sell",
+    "tr": "satılmak, satmak, sold - sold"
+  },
+  {
+    "eng": "send",
+    "tr": "yollamak, göndermek, sent - sent"
+  },
+  {
+    "eng": "sentence",
+    "tr": "cümle, mahkum etmek, hüküm giydirmek"
+  },
+  {
+    "eng": "September",
+    "tr": "eylül"
+  },
+  {
+    "eng": "seven",
+    "tr": "yedi, 7, yedi rakamı"
+  },
+  {
+    "eng": "seventeen",
+    "tr": "on yedi, on yedi sayısı, on yedi"
+  },
+  {
+    "eng": "seventy",
+    "tr": "yetmiş, yetmiş sayısı (LXX), yetmiş sayısı"
+  },
+  {
+    "eng": "share",
+    "tr": "paylaşmak, hisse, pay"
+  },
+  {
+    "eng": "she",
+    "tr": "dişi hayvan, dişi, kadın"
+  },
+  {
+    "eng": "sheep",
+    "tr": "koyun, koyun gibi tip, ezik kimse"
+  },
+  {
+    "eng": "shirt",
+    "tr": "gömlek, mintan"
+  },
+  {
+    "eng": "shoe",
+    "tr": "ayakkabı, pabuç, shoed/shod - shoed/shod"
+  },
+  {
+    "eng": "shop",
+    "tr": "mağaza, dükkan, el verme"
+  },
+  {
+    "eng": "shopping",
+    "tr": "alışveriş, çarşı pazar dolaşma, çarşıya çıkma"
+  },
+  {
+    "eng": "short",
+    "tr": "az, alçak, kısa"
+  },
+  {
+    "eng": "should",
+    "tr": "gerekmek, -malı/-meli"
+  },
+  {
+    "eng": "show",
+    "tr": "göstermek, gösteri, showed - shown/showed"
+  },
+  {
+    "eng": "shower",
+    "tr": "sağanak, duş, duş almak"
+  },
+  {
+    "eng": "sick",
+    "tr": "hasta, yakalatmak, kusmak"
+  },
+  {
+    "eng": "similar",
+    "tr": "benzer, eş, benzeş"
+  },
+  {
+    "eng": "sing",
+    "tr": "söylemek, ötmek, şarkı söylemek"
+  },
+  {
+    "eng": "singer",
+    "tr": "şarkıcı, hanende, şair"
+  },
+  {
+    "eng": "sister",
+    "tr": "abla, kardeş, kız kardeş"
+  },
+  {
+    "eng": "sit",
+    "tr": "oturmak, sat - sat, tünemek"
+  },
+
+  {
+    "eng": "situation",
+    "tr": "hal, durum, ekmek kapısı"
+  },
+  {
+    "eng": "six",
+    "tr": "altı, altı rakamı, altı"
+  },
+  {
+    "eng": "sixteen",
+    "tr": "onaltı, XVI, on altı sayısı"
+  },
+  {
+    "eng": "sixty",
+    "tr": "altmış, LX, altmış sayısı (60, LX)"
+  },
+  {
+    "eng": "skill",
+    "tr": "maharet, beceri, hüner"
+  },
+  {
+    "eng": "skirt",
+    "tr": "etek, kenarından geçmek, uzak durmak"
+  },
+  {
+    "eng": "sleep",
+    "tr": "uyumak, uyku, slept - slept"
+  },
+  {
+    "eng": "slow",
+    "tr": "yavaşlatmak, yavaş, ağır"
+  },
+  {
+    "eng": "small",
+    "tr": "az, küçük, ufak"
+  },
+  {
+    "eng": "snake",
+    "tr": "yılan, yılan gibi gitmek, yılan gibi kıvrılmak"
+  },
+  {
+    "eng": "snow",
+    "tr": "kar, yağmak, karla kaplamak"
+  },
+  {
+    "eng": "so",
+    "tr": "bu yüzden, öyle, böyle"
+  },
+  {
+    "eng": "some",
+    "tr": "biraz, bazı, birkaç"
+  },
+  {
+    "eng": "somebody",
+    "tr": "biri, birisi, şahsiyet"
+  },
+  {
+    "eng": "someone",
+    "tr": "birisi, kimse, bir kimse"
+  },
+  {
+    "eng": "something",
+    "tr": "bir şey, falan"
+  },
+  {
+    "eng": "sometimes",
+    "tr": "bazen, ara sıra"
+  },
+  {
+    "eng": "son",
+    "tr": "oğul, evlat, mahdum"
+  },
+  {
+    "eng": "song",
+    "tr": "şarkı, şakıma, gülte"
+  },
+  {
+    "eng": "soon",
+    "tr": "birazdan, kısa süre içinde, az sonra"
+  },
+  {
+    "eng": "sorry",
+    "tr": "üzgün, esef etmek, eseflenmek"
+  },
+  {
+    "eng": "sound",
+    "tr": "ses, söylemek, ses çıkarmak"
+  },
+  {
+    "eng": "soup",
+    "tr": "çorba, nitroglicerinin, yoğun sis"
+  },
+  {
+    "eng": "south",
+    "tr": "güney, cenup, lodos"
+  },
+  {
+    "eng": "space",
+    "tr": "aralık, açıklık, mekan"
+  },
+  {
+    "eng": "speak",
+    "tr": "konuşmak, spoke - spoken, ses çıkarmak"
+  },
+  {
+    "eng": "special",
+    "tr": "özel, yemek (lokantaya has), özel sayı"
+  },
+  {
+    "eng": "spell",
+    "tr": "hecelemek, büyü, spelled/spelt - spelled/spelt"
+  },
+  {
+    "eng": "spelling",
+    "tr": "yazım, yazılış, imla"
+  },
+  {
+    "eng": "spend",
+    "tr": "geçirmek (geceyi vb), harcamak, spent - spent"
+  },
+  {
+    "eng": "sport",
+    "tr": "spor, şaka söylemek, oynamak"
+  },
+  {
+    "eng": "spring",
+    "tr": "memba, ilkbahar, bahar"
+  },
+  {
+    "eng": "stand",
+    "tr": "ayakta durmak, katlanmak, ayakta durmak"
+  },
+  {
+    "eng": "star",
+    "tr": "yıldız, yıldızlarla süslemek, başrolde oynatmak"
+  },
+  {
+    "eng": "start",
+    "tr": "başlamak, başlatmak, başlangıç"
+  },
+  {
+    "eng": "statement",
+    "tr": "ifade, söz, beyan"
+  },
+  {
+    "eng": "station",
+    "tr": "terminal, istasyon, görevlendirmek"
+  },
+  {
+    "eng": "stay",
+    "tr": "kalmak, kalma süresi, ikamet"
+  },
+  {
+    "eng": "still",
+    "tr": "durgun, hareketsiz, hala"
+  },
+  {
+    "eng": "stop",
+    "tr": "durmak, durdurmak, dinmek"
+  },
+  {
+    "eng": "story",
+    "tr": "hikaye, anlatı, tarih"
+  },
+  {
+    "eng": "street",
+    "tr": "cadde, sokak, mahalle"
+  },
+  {
+    "eng": "strong",
+    "tr": "güçlü, kuvvetli, domuz gibi"
+  },
+  {
+    "eng": "student",
+    "tr": "öğrenci, talebe, mektepli"
+  },
+  {
+    "eng": "study",
+    "tr": "incelemek, çalışmak, çalışma"
+  },
+  {
+    "eng": "style",
+    "tr": "biçim, tarz, biçem"
+  },
+  {
+    "eng": "subject",
+    "tr": "ders, özne, konu"
+  },
+  {
+    "eng": "success",
+    "tr": "muvaffakiyet, başarı, başarım"
+  },
+  {
+    "eng": "sugar",
+    "tr": "şeker, kompliman yapmak, şeker katmak"
+  },
+  {
+    "eng": "summer",
+    "tr": "yaz, yazı geçirmek, hayattan bıkmak"
+  },
+  {
+    "eng": "sun",
+    "tr": "güneş, güneşe bırakmak, güneşlemek"
+  },
+  {
+    "eng": "sum",
+    "tr": "toplam, yekun, hesaplamak"
+  },
+  {
+    "eng": "Sunday",
+    "tr": "pazar, pazar günü, bayramlık"
+  },
+  {
+    "eng": "supermarket",
+    "tr": "süpermarket, market"
+  },
+  {
+    "eng": "sure",
+    "tr": "emin, elbette, soruşturmak"
+  },
+  {
+    "eng": "sweater",
+    "tr": "süveter, hırka, sömüren işveren"
+  },
+  {
+    "eng": "swim",
+    "tr": "yüzmek, yüzme, swam - swum"
+  },
+  {
+    "eng": "swimming",
+    "tr": "yüzme, yüzücülük, yüzme sporu"
+  },
+  {
+    "eng": "table",
+    "tr": "masa, tablo, sofra"
+  },
+  {
+    "eng": "take",
+    "tr": "almak, (fotoğraf) çekmek, götürmek"
+  },
+  {
+    "eng": "talk",
+    "tr": "konuşmak, sohbet, konuşma"
+  },
+  {
+    "eng": "tall",
+    "tr": "uzun, yüksek, uzun boylu"
+  },
+  {
+    "eng": "taxi",
+    "tr": "taksi, taksiyle gitmek, birini taksiyle götürmek"
+  },
+  {
+    "eng": "tea",
+    "tr": "çay, çay"
+  },
+  {
+    "eng": "teach",
+    "tr": "ders vermek, öğretmek, taught - taught"
+  },
+  {
+    "eng": "teacher",
+    "tr": "öğretmen, hoca, öğretmen"
+  },
+  {
+    "eng": "team",
+    "tr": "takım, ekip, takım halinde yapmak"
+  },
+  {
+    "eng": "teenager",
+    "tr": "on üç ile on dokuz yaşlar arasındaki kimse, delikanlı, yeniyetme"
+  },
+  {
+    "eng": "telephone",
+    "tr": "telefon, telefon etmek, telefon açmak"
+  },
+  {
+    "eng": "television",
+    "tr": "televizyon, tv"
+  },
+  {
+    "eng": "tell",
+    "tr": "haber vermek, söylemek, anlatmak"
+  },
+  {
+    "eng": "ten",
+    "tr": "on, onluk, on"
+  },
+  {
+    "eng": "tennis",
+    "tr": "tenis, alantopu, tenis"
+  },
+  {
+    "eng": "terrible",
+    "tr": "berbat, korkunç, müthiş"
+  },
+  {
+    "eng": "test",
+    "tr": "sınamak, deneme, test"
+  },
+  {
+    "eng": "text",
+    "tr": "metin, mesaj atmak (cepten), parça"
+  },
+  {
+    "eng": "than",
+    "tr": "-den, hariç, -mektense"
+  },
+  {
+    "eng": "thank",
+    "tr": "teşekkür etmek, teşekkür"
+  },
+  {
+    "eng": "thanks",
+    "tr": "teşekkür, teşekkürler, sağ ol"
+  },
+  {
+    "eng": "that",
+    "tr": "şu, o, o kadar"
+  },
+  {
+    "eng": "the",
+    "tr": "belirli durumlarda isimden önce kullanılır, belli bir obje/kişi/yeri nitelemek için kullanılır"
+  },
+  {
+    "eng": "theatre",
+    "tr": "tiyatro, amfi"
+  },
+  {
+    "eng": "their",
+    "tr": "onların, onların"
+  },
+  {
+    "eng": "them",
+    "tr": "onları, onları"
+  },
+  {
+    "eng": "then",
+    "tr": "o zamanlar, o zamanki, o zamanın"
+  },
+  {
+    "eng": "there",
+    "tr": "oraya, orada, ora"
+  },
+  {
+    "eng": "they",
+    "tr": "onlar, kendileri"
+  },
+  {
+    "eng": "thing",
+    "tr": "şey, nesne, olay"
+  },
+  {
+    "eng": "think",
+    "tr": "sanmak, düşünmek, thought - thought"
+  },
+  {
+    "eng": "third",
+    "tr": "üçte bir, üçüncü, üçüncü olarak"
+  },
+  {
+    "eng": "thirsty",
+    "tr": "susuz, susamış, kurak"
+  },
+  {
+    "eng": "thirteen",
+    "tr": "on üç sayısı (13, XIII), on üç"
+  },
+  {
+    "eng": "thirty",
+    "tr": "otuz sayısı (30, XXX), otuz"
+  },
+  {
+    "eng": "this",
+    "tr": "bu, böylesine, bu kadar"
+  },
+  {
+    "eng": "thousand",
+    "tr": "bin, bin sayısı (1000, M), binlik"
+  },
+  {
+    "eng": "three",
+    "tr": "üç, üç rakamı (3, III), üç"
+  },
+  {
+    "eng": "through",
+    "tr": "boyunca, başından sonuna kadar, yoluyla"
+  },
+  {
+    "eng": "Thursday",
+    "tr": "perşembe, perşembe"
+  },
+  {
+    "eng": "ticket",
+    "tr": "bilet, etiket koymak, etiketlemek"
+  },
+  {
+    "eng": "time",
+    "tr": "kez, kere, müddet"
+  },
+  {
+    "eng": "tired",
+    "tr": "argın, yorgun, yorgun düşmüş"
+  },
+  {
+    "eng": "title",
+    "tr": "unvan, başlık, isimlendirmek"
+  },
+  {
+    "eng": "to",
+    "tr": "karşı, -mek/-mak (mastarı), kadar"
+  },
+  {
+    "eng": "today",
+    "tr": "bugün, şimdi, bu günlerde"
+  },
+  {
+    "eng": "together",
+    "tr": "birlikte, beraber, kuyruk (kimse)"
+  },
+  {
+    "eng": "toilet",
+    "tr": "hela, tuvalet, makyaj"
+  },
+  {
+    "eng": "tomato",
+    "tr": "domates, domates"
+  },
+  {
+    "eng": "tomorrow",
+    "tr": "yarın, yarın"
+  },
+  {
+    "eng": "tonight",
+    "tr": "akşama, bu akşam, bu gece"
+  },
+  {
+    "eng": "too",
+    "tr": "gereğinden çok, çok, aşırı"
+  },
+  {
+    "eng": "tooth",
+    "tr": "diş, dişle kaplamak, dişlemek"
+  },
+  {
+    "eng": "topic",
+    "tr": "konu, başlık, bahis"
+  },
+  {
+    "eng": "tourist",
+    "tr": "turist, gezgin, seyyah"
+  },
+  {
+    "eng": "town",
+    "tr": "şehir, kasaba, şehir merkezi"
+  },
+  {
+    "eng": "traffic",
+    "tr": "gidiş geliş, trafik, iş yapmak"
+  },
+  {
+    "eng": "train",
+    "tr": "eğitim vermek, eğitmek, tren"
+  },
+  {
+    "eng": "travel",
+    "tr": "gezmek, seyahat etmek, yolculuk etmek"
+  },
+  {
+    "eng": "tree",
+    "tr": "ağaç, ağaca çıkarmak, çarmıh"
+  },
+  {
+    "eng": "trip",
+    "tr": "seyahat, yolculuk, gezi"
+  },
+  {
+    "eng": "trousers",
+    "tr": "pantolon, pantolon"
+  },
+  {
+    "eng": "TRUE",
+    "tr": "hakiki, gerçek, doğru"
+  },
+  {
+    "eng": "try",
+    "tr": "denemek, deneme, yoklamak"
+  },
+  {
+    "eng": "T-shirt",
+    "tr": "tişört, tişört, yarım kollu fanila"
+  },
+  {
+    "eng": "Tuesday",
+    "tr": "salı, salı"
+  },
+  {
+    "eng": "turn",
+    "tr": "dönmek, döndürmek, çevirmek"
+  },
+  {
+    "eng": "TV",
+    "tr": "televizyon, tv"
+  },
+  {
+    "eng": "twelve",
+    "tr": "on iki, on iki sayısı (12, XII), on iki"
+  },
+  {
+    "eng": "twenty",
+    "tr": "yirmi, yirmi sayısı (20, XX), 20"
+  },
+  {
+    "eng": "twice",
+    "tr": "iki kez, iki sefer, iki kere"
+  },
+  {
+    "eng": "two",
+    "tr": "iki, iskambilde ikili, iki rakamı (2, II)"
+  },
+  {
+    "eng": "type",
+    "tr": "yazmak, tür, tip"
+  },
+  {
+    "eng": "umbrella",
+    "tr": "şemsiye, şemsiyelik, koruyucu"
+  },
+  {
+    "eng": "uncle",
+    "tr": "dayı, amca, enişte"
+  },
+  {
+    "eng": "under",
+    "tr": "altına, altında, az"
+  },
+  {
+    "eng": "understand",
+    "tr": "anlayış göstermek, anlamak, understood - understood"
+  },
+  {
+    "eng": "university",
+    "tr": "üniversite, üniversite"
+  },
+  {
+    "eng": "until",
+    "tr": "ila, değin, dek"
+  },
+  {
+    "eng": "up",
+    "tr": "yukarı, yukarı, artırmak"
+  },
+  {
+    "eng": "upstairs",
+    "tr": "üst kat, üst kat, yukarı kat"
+  },
+  {
+    "eng": "us",
+    "tr": "biz, abd, bizi"
+  },
+  {
+    "eng": "use",
+    "tr": "kullanmak, kullanım, kullanma"
+  },
+  {
+    "eng": "useful",
+    "tr": "faydalı, yararlı, kullanışlı"
+  },
+  {
+    "eng": "usually",
+    "tr": "genellikle, çoğunlukla, çoğu zaman"
+  },
+  {
+    "eng": "vacation",
+    "tr": "tatil, tatil yapmak, izin"
+  },
+  {
+    "eng": "vegetable",
+    "tr": "sebze, bitkisel, göveri"
+  },
+  {
+    "eng": "very",
+    "tr": "çok, hatta, bile"
+  },
+  {
+    "eng": "video",
+    "tr": "video terminali, ekran, video filmi"
+  },
+  {
+    "eng": "village",
+    "tr": "köy, köy, şehir ve kasabalardan küçük ama kalıcı yerleşim birimi"
+  },
+  {
+    "eng": "visit",
+    "tr": "ziyaret etmek, ziyaret, gezmek"
+  },
+  {
+    "eng": "visitor",
+    "tr": "ziyaretçi, ziyaret eden kimse, zair"
+  },
+  {
+    "eng": "wait",
+    "tr": "beklemek, bekleyiş, bekleme"
+  },
+  {
+    "eng": "waiter",
+    "tr": "garson, erkek garson, garson"
+  },
+  {
+    "eng": "wake",
+    "tr": "canlanmak, uyanmak, woke/waked - woken/waked"
+  },
+  {
+    "eng": "walk",
+    "tr": "yürümek, dolaşmak, yürüyerek gitmek"
+  },
+  {
+    "eng": "wall",
+    "tr": "duvar, tecrit etmek, ayırmak"
+  },
+  {
+    "eng": "want",
+    "tr": "istemek, istek, istenmek"
+  },
+  {
+    "eng": "warm",
+    "tr": "ısıtmak, ısınmak, ilk"
+  },
+  {
+    "eng": "wash",
+    "tr": "yıkanmak, yıkamak, aşındırmak"
+  },
+  {
+    "eng": "watch",
+    "tr": "seyretmek (tv), seyretmek, gözlemek"
+  },
+  {
+    "eng": "water",
+    "tr": "sulamak, su, ıslatmak"
+  },
+  {
+    "eng": "way",
+    "tr": "yol, taraf, tarz"
+  },
+  {
+    "eng": "we",
+    "tr": "biz"
+  },
+  {
+    "eng": "wear",
+    "tr": "giymek, takmak, aşındırmak"
+  },
+  {
+    "eng": "weather",
+    "tr": "hava, hava durumu, yıpratmak"
+  },
+  {
+    "eng": "website",
+    "tr": "internet sitesi, web sitesi, ağ sitesi"
+  },
+  {
+    "eng": "Wednesday",
+    "tr": "çarşamba"
+  },
+  {
+    "eng": "week",
+    "tr": "hafta, hafta, ardışık yedi günlük süre"
+  },
+  {
+    "eng": "weekend",
+    "tr": "hafta sonu, hafta sonunu geçirmek, haftasonu"
+  },
+  {
+    "eng": "welcome",
+    "tr": "hoş geldin, hoş geldin, hoş karşılamak"
+  },
+  {
+    "eng": "well",
+    "tr": "fışkırmak, kuyu, iyi"
+  },
+  {
+    "eng": "west",
+    "tr": "batı, batıdaki, batıya doğru"
+  },
+  {
+    "eng": "what",
+    "tr": "ne, neyi, hangi"
+  },
+  {
+    "eng": "when",
+    "tr": "ne zaman, zaman, ne vakit"
+  },
+  {
+    "eng": "where",
+    "tr": "nereye, nerede"
+  },
+  {
+    "eng": "which",
+    "tr": "hangi, kaçıncı, hangi"
+  },
+  {
+    "eng": "white",
+    "tr": "beyaz, ak, solgun"
+  },
+  {
+    "eng": "who",
+    "tr": "kimi, kim, kime"
+  },
+  {
+    "eng": "why",
+    "tr": "neden, niçin, niye"
+  },
+  {
+    "eng": "wife",
+    "tr": "kocanın eşi, hanım, karı"
+  },
+  {
+    "eng": "will",
+    "tr": "irade, dilemek"
+  },
+  {
+    "eng": "win",
+    "tr": "kazanmak, galip gelmek, zafer"
+  },
+  {
+    "eng": "window",
+    "tr": "pencere, camekan, vitrin"
+  },
+  {
+    "eng": "wine",
+    "tr": "şarap sunmak, şarap, şarap rengi"
+  },
+  {
+    "eng": "winter",
+    "tr": "kış, kışlık, kışlamak"
+  },
+  {
+    "eng": "with",
+    "tr": "ile, -lı/-li, beraberinde"
+  },
+  {
+    "eng": "without",
+    "tr": "dis, dıştan, dışarıda"
+  },
+  {
+    "eng": "woman",
+    "tr": "kadın, hanım, kadın"
+  },
+  {
+    "eng": "wonderful",
+    "tr": "müthiş, harikulade, harika"
+  },
+  {
+    "eng": "word",
+    "tr": "laf, söz, sözcük"
+  },
+  {
+    "eng": "work",
+    "tr": "çalışmak, iş yapmak, iş"
+  },
+  {
+    "eng": "worker",
+    "tr": "işçi, adam, amele"
+  },
+  {
+    "eng": "world",
+    "tr": "alem, dünya, evren"
+  },
+  {
+    "eng": "would",
+    "tr": "istemek, -ecekti, -çekti"
+  },
+  {
+    "eng": "write",
+    "tr": "yazmak, wrote - written, kaydetmek"
+  },
+  {
+    "eng": "writer",
+    "tr": "yazar, müellif, muharrir"
+  },
+  {
+    "eng": "writing",
+    "tr": "yazma, yazım, yazı"
+  },
+  {
+    "eng": "wrong",
+    "tr": "yanlış, gadretmek, haksızlık etmek"
+  },
+  {
+    "eng": "yeah",
+    "tr": "tamam, he, evet"
+  },
+  {
+    "eng": "year",
+    "tr": "yıl, sene, ihtiyarlık"
+  },
+  {
+    "eng": "yellow",
+    "tr": "sarı, sararmak, sarartmak"
+  },
+  {
+    "eng": "yes",
+    "tr": "evet, olumlu cevap, olumlu oy"
+  },
+  {
+    "eng": "yesterday",
+    "tr": "dün"
+  },
+  {
+    "eng": "you",
+    "tr": "siz, sen, seni"
+  },
+  {
+    "eng": "young",
+    "tr": "genç, hayvan yavrusu, döl"
+  },
+  {
+    "eng": "your",
+    "tr": "senin, sizin"
+  },
+  {
+    "eng": "yourself",
+    "tr": "kendiniz, kendin, kendini"
+  }
+]
