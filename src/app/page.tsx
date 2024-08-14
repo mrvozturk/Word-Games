@@ -35,7 +35,7 @@ export default function Home() {
   const getRandomInt = (min: number, max: number) => {
     const minCeiled = Math.ceil(min);
     const maxFloored = Math.floor(max);
-    return Math.floor(Math.random() * (maxFloored - minCeiled) + minCeiled); // The maximum is exclusive and the minimum is inclusive
+    return Math.floor(Math.random() * (maxFloored - minCeiled) + minCeiled); 
   };
 
   const wordData = useMemo(() => {
@@ -62,16 +62,17 @@ export default function Home() {
     };
   }, [questionIndex]);
 
+  const resetOptionColors = () => {
+    wordData.options.forEach((option: Option) => {
+      document
+        .getElementById(option.id?.toString() ?? '')
+        ?.style.setProperty('background-color', '#ddd');
+    });
+  };
+
   const nextQuestion = () => {
+    resetOptionColors(); 
     setSelectItem(defaultOption);
-    const correctOption = wordData.options.find(
-      (option: Option) => option.isCorrect
-    )?.id;
-
-    document
-      .getElementById(correctOption?.toString() ?? '')
-      ?.style.setProperty('background-color', '#ddd');
-
     setQuestionIndex(Math.floor(Math.random() * Words.length));
   };
 
@@ -101,34 +102,10 @@ export default function Home() {
 
   return (
     <div className={styles.container}>
-      <h1
-        style={{
-          color: '#333',
-          fontSize: '35px',
-          marginBottom: '20px'
-        }}
-      >
-        🧩Word Game🧩
-      </h1>
+      <h1 className={styles.title}>🧩Word Game🧩</h1>
 
-      <p
-        style={{
-          marginBottom: '10px',
-          fontSize: '25px',
-          color: 'black'
-        }}
-      >
-        {wordData.question}
-      </p>
-      <div
-        style={{
-          display: 'flex',
-          flexWrap: 'wrap',
-          justifyContent: 'center',
-          gap: '10px',
-          grid: 'auto / 180px 180px 180px 180px'
-        }}
-      >
+      <p className={styles.question}>{wordData.question}</p>
+      <div className={styles.buttonContainer}>
         {wordData.options.map((option: Option, index: number) => (
           <button
             onClick={() => {
@@ -140,91 +117,28 @@ export default function Home() {
             }}
             key={option.id}
             id={option.id?.toString()}
-            style={{
-              width: '180px',
-              height: '150px',
-              margin: '5px',
-              borderRadius: '10px',
-              border: '5px solid grey',
-              boxSizing: 'border-box',
-              padding: '20px 30px',
-              textAlign: 'center',
-              cursor: 'pointer',
-              backgroundColor: '#ddd',
-              color: 'black',
-              transition: 'background-color 0.3s ease',
-              ...(option.text === selectItem.text
-                ? {
-                    backgroundColor: '#FFD700',
-                    color: 'black',
-                    fontWeight: 'bold'
-                  }
-                : {})
-            }}
+            className={`${styles.optionButton} ${
+              option.text === selectItem.text ? styles.optionButtonSelected : ''
+            }`}
           >
             <p>{option.text}</p>
           </button>
         ))}
       </div>
-      <div
-        style={{
-          marginTop: '20px',
-          display: 'flex',
-          justifyContent: 'center',
-          gap: '10px'
-        }}
-      >
+      <div className={styles.actionButtons}>
         <button
           onClick={checkAnswer}
           disabled={!selectItem.text}
-          style={{
-            marginTop: '10px',
-            backgroundColor: '#FFC300',
-            border: 'none',
-            padding: '10px 20px',
-            cursor: 'pointer',
-            fontWeight: 'bold',
-            borderRadius: '5px',
-            transition: 'background-color 0.3s ease'
-          }}
+          className={styles.actionButton}
         >
           Cevabı Kontrol Et
         </button>
-        <button
-          style={{
-            marginTop: '10px',
-            backgroundColor: '#FFC300',
-            border: 'none',
-            padding: '10px 20px',
-            cursor: 'pointer',
-            fontWeight: 'bold',
-            borderRadius: '5px',
-            transition: 'background-color 0.3s ease'
-          }}
-          onClick={nextQuestion}
-        >
+        <button className={styles.actionButton} onClick={nextQuestion}>
           Sonraki Soru
         </button>
       </div>
-      <button
-        style={{
-          marginTop: '10px',
-          backgroundColor: '#FFC300',
-          border: 'none',
-          padding: '10px 20px',
-          cursor: 'pointer',
-          fontWeight: 'bold',
-          borderRadius: '5px',
-          transition: 'background-color 0.3s ease'
-        }}
-      >
-        <Link
-          style={{
-            textDecoration: 'none',
-            color: 'black'
-          }}
-          href='/wordCombination'
-        >
+      <button className={styles.linkButton}>
+        <Link href='/wordCombination' className={styles.linkText}>
           Word Combination Game
         </Link>
       </button>
