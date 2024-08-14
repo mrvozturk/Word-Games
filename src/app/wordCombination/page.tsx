@@ -68,6 +68,7 @@ const WordCombination = () => {
           {words.map((word, index) => (
             <button
               onClick={() => {
+                console.log('Button clicked:', word);
                 setInputValue(inputValue + `${word} `);
                 const newWords = words.filter((_, i) => i !== index);
                 setWords(newWords);
@@ -80,13 +81,13 @@ const WordCombination = () => {
           ))}
         </div>
         <input
-          type="text"
-          id="answer"
-          placeholder="Cevabınızı girin"
+          type='text'
+          id='answer'
+          placeholder='Cevabınızı girin'
           value={inputValue}
           onChange={handleChange}
           className={styles.inputField}
-          onKeyDown={(e) => {
+          onKeyDown={e => {
             const key = e.key || e.keyCode || e.which;
             const keyCode = e.keyCode || e.which;
 
@@ -120,7 +121,7 @@ const WordCombination = () => {
           Sonraki Soru
         </button>
       </div>
-      <Link href="/" className={styles.linkButton}>
+      <Link href='/' className={styles.linkButton}>
         Word Game
       </Link>
     </div>

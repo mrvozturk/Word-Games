@@ -39,8 +39,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: 10px; /* Soldan boşluk */
-  margin-right: 10px; /* Sağdan boşluk */
+  margin-left: 20px; /* Soldan boşluk */
+  margin-right: 20px; /* Sağdan boşluk */
 }
 
 .inputField {
@@ -56,6 +56,7 @@
   box-sizing: border-box;
   font-size: 16px;
   color: #000;
+  outline: none;
 }
 
 .buttonContainer {
@@ -73,8 +74,8 @@
   cursor: pointer;
   border-radius: 15px;
   font-size: 13px;
-  height: 50px; 
-  width: 150px; 
+  height: 50px;
+  width: 150px;
   padding: 10px 20px;
   display: flex;
   align-items: center;
@@ -108,6 +109,8 @@
   }
 
   .inputField {
+    display: flex;
+    width: 95%;
     height: 45px;
     font-size: 15px;
   }
@@ -122,11 +125,6 @@
     padding: 14px 25px;
     font-size: 12px;
   }
-
-  .inputField {
-    display: flex;
-    width: 95%;
-  }
 }
 
 @media (max-width: 568px) {
@@ -138,8 +136,6 @@
   .wordButton {
     padding: 6px 15px;
     font-size: 13px;
-    margin-left: 6px;
-    margin-right: 6px;
   }
 
   .inputField {
@@ -148,13 +144,13 @@
   }
 
   .actionButton {
-    width: 112px;
+    width: 105px;
     height: 40px;
-    font-size: 11px;
+    font-size: 12px;
   }
 
   .linkButton {
-    padding: 13px 30px;
-    font-size: 11px;
+    padding: 13px 20.5px;
+    font-size: 12px;
   }
 }
